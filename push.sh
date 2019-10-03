@@ -1,7 +1,7 @@
 #!/bin/sh
 set -ev
 
-echo 'Updating gh-pages branch....';
+echo 'Updating gh-pages branch...';
 
 setup_git() {
   git config --global user.email "travis@travis-ci.org"

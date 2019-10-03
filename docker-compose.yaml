@@ -1,0 +1,12 @@
+version: '3'
+services:
+  build-resume:
+    image: node:10.15.3
+    working_dir: /code/
+    volumes:
+      - ./:/code/
+    environment: 
+      - RENDER_FILE_LOCATION=/code/src/Resume.md
+    command: >
+      bash -c 'npm install && npm start && rm -rf ./node_modules && echo "Cleared node_modules"'
+    

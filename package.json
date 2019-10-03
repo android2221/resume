@@ -1,0 +1,22 @@
+{
+  "name": "android2221.github.io",
+  "version": "1.0.0",
+  "description": "My Resume page's buildchain to create an HTML page out of markdown",
+  "scripts": {
+    "start": "node ./src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/android2221/android2221.github.io.git"
+  },
+  "author": "Andy Hablewitz",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/android2221/android2221.github.io/issues"
+  },
+  "homepage": "https://github.com/android2221/android2221.github.io#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "markdown-it-task-lists": "^2.1.1"
+  }
+}

@@ -23,7 +23,7 @@ I am a full stack software engineer with experience working on distributed, scal
 
 ## **Experience**
 
-**Senior Software Engineer**
+**Senior Software Engineer**  
 *Aegis Premier Technologies | September 2019 - Current*
 
 I work on a team that is maintaining a suite of software that serves the non-profit print and mail industries. We have a large monolithic MVC app, Windows desktop apps, web services, apis, and an Angular 6 app under our purview. Most of the work I perform is refactoring legacy codebases to support larger amounts of data as the needs of the systems grow.

@@ -13,21 +13,25 @@ I am a full stack software engineer with experience working on distributed, scal
 
 - .Net Core / .Net / C#
 - Python
-- TypeScript
 - Unit testing
 - Relational databases
 - Messaging Systems
 - Redis
 - Kubernetes / Docker
-- Git / Github / Azure DevOps / Jenkins
+- Git / Github / Azure DevOps
 - AWS / Azure
 
 ## **Experience**
 
+**Senior Software Engineer**
+*Aegis Premier Technologies | September 2019 - Current*
+
+I work on a team that is maintaining a suite of software that serves the non-profit print and mail industries. We have a large monolithic MVC app, Windows desktop apps, web services, apis, and an Angular 6 app under our purview. Most of the work I perform is refactoring legacy codebases to support larger amounts of data as the needs of the systems grow.
+
 **Software Engineer**  
 *Pacific Medical Data Solutions | November 2018 - September 2019*
 
-I work on a team that is producing an application to calculate payroll for physicians. It is a highly available, distributed application that will serve all of the hospitals in our network, in addition to being a SaaS offering in the near future. Our stack is comprised of .Net Core and Node applications that communicate through Azure Service Bus. Since this project is in it's early stages I find myself contributing code in in all areas of our stack. I am an integral part in creating and maintaining our Kubernetes infrastructure and CI / CD pipelines.
+I worked on small team that produced an application to calculate payroll for physicians. It is a highly available, distributed application that served all hospitals in our network. Our stack was comprised of .Net Core and Node applications that communicated through Azure Service Bus. I contributed in all areas of front-end and back-end code, and I was an integral part in creating and maintaining our Kubernetes infrastructure and CI / CD pipelines.
 
 **Software Engineer & Site Reliability Engineer**  
 *Trimble | March 2018 - November 2018*

@@ -5,9 +5,10 @@ GitHub:  github.com/android2221/
 LinkedIn: linkedin.com/in/andyhablewitz/  
 Location: Denver, CO
 
-## **Personal Statement**
+## **Professional Summary**
 
-I am a full stack software engineer with experience working on distributed, scalable, and enterprise-grade systems. I look for opportunities that allow me to solve challenging problems while learning fresh skills and working with talented people. I enjoy modernizing legacy processes and improving operations by leveraging microservice architecture and container orchestration.
+Software engineer with 5+ years of professional experience delivering enterprise-grade, scalable, and sensible solutions to complex business problems. Highly motivated, curious, and always interested in rectifying challenges. Seeking an opportunity to use my knack for problem solving to create successes for the teams at Microsoft.
+
 
 ## **Current Skills**
 
@@ -20,13 +21,14 @@ I am a full stack software engineer with experience working on distributed, scal
 - Kubernetes / Docker
 - Git / Github / Azure DevOps
 - AWS / Azure
+- Arduino (C++)
 
 ## **Experience**
 
 **Senior Software Engineer**  
 *Aegis Premier Technologies | September 2019 - Current*
 
-I work on a team that is maintaining a suite of software that serves the non-profit print and mail industries. We have a large monolithic MVC app, Windows desktop apps, web services, apis, and an Angular 6 app under our purview. Most of the work I perform is refactoring legacy codebases to support larger amounts of data as the needs of the systems grow.
+I work on a team that is maintaining a suite of software that serves the non-profit print and mail industries. 
 
 **Software Engineer**  
 *Pacific Medical Data Solutions | November 2018 - September 2019*

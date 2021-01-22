@@ -1,6 +1,8 @@
 # Andy Hablewitz : Software Engineer
 
-**Location:** Denver, CO **·** **Phone:** (303) 350-6930 **·** **Email:** mail@andyhablewitz.com
+<div class="contactInfo">
+<span>Location:</span> Denver, CO <span>&nbsp·&nbsp</span> <span>Phone:</span> (303) 350-6930 <span>&nbsp·&nbsp</span> <span>Email:</span> mail@andyhablewitz.com
+</div>
 
 
 ## **Professional Summary**
@@ -24,8 +26,6 @@ Software engineer with 5+ years of professional experience delivering enterprise
 <td><ul><li>Git / Github / Azure DevOps</li></ul></td>
 </tr>
 </table>
-
-
 
 ## **Education**
 **A.A.S. in Software Development**  

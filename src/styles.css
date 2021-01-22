@@ -21,3 +21,11 @@ table ul{
     margin-block-start: initial;
     margin-block-end: initial;
 }
+
+.contactInfo{
+    text-align: center;
+}
+
+.contactInfo span{
+    font-weight: bold;
+}

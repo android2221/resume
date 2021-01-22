@@ -1,13 +1,15 @@
 # Andy Hablewitz : Software Engineer
 
 <div class="contactInfo">
-<span>Location:</span> Denver, CO <span>&nbsp·&nbsp</span> <span>Phone:</span> (303) 350-6930 <span>&nbsp·&nbsp</span> <span>Email:</span> mail@andyhablewitz.com
+<span>Phone:</span> (303) 350-6930 
+<span>&nbsp·&nbsp</span> <span>Email:</span> mail@andyhablewitz.com
+<span>&nbsp·&nbsp</span><span>GitHub:</span> github.com/android2221
 </div>
 
 
 ## **Professional Summary**
 
-Software engineer with 5+ years of professional experience delivering enterprise-grade, scalable, and sensible solutions to complex business problems. Highly motivated, curious, and always interested in overcoming challenges. Seeking an opportunity to use my knack for problem solving to create successes for the teams at Microsoft.
+Software engineer with 5+ years of professional experience delivering enterprise grade, scalable, and sensible solutions to complex business problems. Highly motivated, curious, and apt to overcome challenges. Seeking an opportunity to use my zeal for problem solving to create successes across technical projects.
 
 ## **Current Skills**
 <table>
@@ -29,37 +31,39 @@ Software engineer with 5+ years of professional experience delivering enterprise
 
 ## **Education**
 **A.A.S. in Software Development**  
-*Fox Valley Technical College | Graduated May 2015*
+*Fox Valley Technical College - Appleton, WI | Graduated May 2015*
 
-- Coursework in C# application development on desktop, web, and mobile; PHP Web development
+- Coursework in C# application development on desktop, web, and mobile; PHP web development
 - Dean's list recognition Spring 2013 and Fall 2014 semesters
 
 ## **Experience**
 
 **Senior Software Engineer**  
-*Aegis Premier Technologies | September 2019 - Current*  
+*Aegis Premier Technologies - Westminster, CO | September 2019 - Current*  
 **Software Engineer & Team Lead**  
-*Aegis Premier Technologies | July 2016 - March 2018*
+*Aegis Premier Technologies - Westminster, CO  | July 2016 - March 2018*
 
 - Refactored legacy C# .Net processes to achieve over 100% greater efficiency in some areas
 - Implemented and maintained CI/CD pipelines in Octopus and TeamCity
 - Leveraged my full-stack skills to deliver features to various REST APIs, MVC apps, Angular apps
 
 **Software Engineer**  
-*Pacific Medical Data Solutions | November 2018 - September 2019*
+*Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
 
 - Delivered several micro-services for an ETL pipeline using .Net Core and Azure Service Bus
 - Created and maintained original Kubernetes architecture and CI/CD pipelines in Azure
 - Wrote a database migrations and an automated environment creation pipeline with .Net Core
 
 **Software Engineer & Site Reliability Engineer**  
-*Trimble | March 2018 - November 2018*
+*Trimble - Westminster, CO | March 2018 - November 2018*
 
 - Delivered features with Angular and C# for an IOT application on micro-service architecture
 - Successfully ported .Net apps into containers and consolidated dozens of VM servers
-- Aided in creating initial Kubernetes cluster architecture and migrated production workloads
+- Aided in creating initial Kubernetes cluster architecture and safely migrated production workloads
 
 **Lead Web Programmer**  
-*Stellar Blue Technologies | August 2015 - September 2016*
+*Stellar Blue Technologies - Appleton, WI | August 2015 - September 2016*
 
-- Crafted custom WordPress themes and plugins with PHP for various local businesses
+- Built and maintained proprietary WordPress plugins to serve real estate listings and Twitter feeds
+- Crafted custom WordPress themes from scratch for various local businesses
+  

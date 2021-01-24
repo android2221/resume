@@ -1,57 +1,69 @@
 # Andy Hablewitz : Software Engineer
 
-Email: mail@andyhablewitz.com  
-GitHub:  github.com/android2221/  
-LinkedIn: linkedin.com/in/andyhablewitz/  
-Location: Denver, CO
+<div class="contactInfo">
+<span>Phone:</span> (303) 350-6930 
+<span>&nbsp·&nbsp</span> <span>Email:</span> mail@andyhablewitz.com
+<span>&nbsp·&nbsp</span><span>GitHub:</span> github.com/android2221
+</div>
 
-## **Personal Statement**
 
-I am a full stack software engineer with experience working on distributed, scalable, and enterprise-grade systems. I look for opportunities that allow me to solve challenging problems while learning fresh skills and working with talented people. I enjoy modernizing legacy processes and improving operations by leveraging microservice architecture and container orchestration.
+## **Professional Summary**
+
+Software engineer with 5+ years of professional experience delivering enterprise grade, scalable, and sensible solutions to complex business problems. Highly motivated, curious, and apt to overcome challenges. Seeking an opportunity to use my zeal for problem solving to create successes across technical projects.
 
 ## **Current Skills**
+<table>
+<tr>
+<td>
+<ul><li>.Net Core / .Net / C#</li></ul</ul><ul>
+</td>
+<td><ul><li>Python</li></ul></td>
+<td><ul><li>AWS / Azure</li></ul></td>
+<td><ul><li>Relational databases</li></ul></td>
+</tr>
+<tr>
+<td><ul><li>Messaging Systems</li></ul></td>
+<td><ul><li>Redis</li></ul></td>
+<td><ul><li>Kubernetes / Docker</li></ul></td>
+<td><ul><li>Git / Github / Azure DevOps</li></ul></td>
+</tr>
+</table>
 
-- .Net Core / .Net / C#
-- Python
-- Unit testing
-- Relational databases
-- Messaging Systems
-- Redis
-- Kubernetes / Docker
-- Git / Github / Azure DevOps
-- AWS / Azure
+## **Education**
+**A.A.S. in Software Development**  
+*Fox Valley Technical College - Appleton, WI | Graduated May 2015*
+
+- Coursework in C# application development on desktop, web, and mobile; PHP web development
+- Dean's list recognition Spring 2013 and Fall 2014 semesters
 
 ## **Experience**
 
 **Senior Software Engineer**  
-*Aegis Premier Technologies | September 2019 - Current*
+*Aegis Premier Technologies - Westminster, CO | September 2019 - Current*  
+**Software Engineer & Team Lead**  
+*Aegis Premier Technologies - Westminster, CO  | July 2016 - March 2018*
 
-I work on a team that is maintaining a suite of software that serves the non-profit print and mail industries. We have a large monolithic MVC app, Windows desktop apps, web services, apis, and an Angular 6 app under our purview. Most of the work I perform is refactoring legacy codebases to support larger amounts of data as the needs of the systems grow.
+- Refactored legacy C# .Net processes to achieve over 100% greater efficiency in some areas
+- Implemented and maintained CI/CD pipelines in Octopus and TeamCity
+- Leveraged my full-stack skills to deliver features to various REST APIs, MVC apps, Angular apps
 
 **Software Engineer**  
-*Pacific Medical Data Solutions | November 2018 - September 2019*
+*Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
 
-I worked on small team that produced an application to calculate payroll for physicians. It is a highly available, distributed application that served all hospitals in our network. Our stack was comprised of .Net Core and Node applications that communicated through Azure Service Bus. I contributed in all areas of front-end and back-end code, and I was an integral part in creating and maintaining our Kubernetes infrastructure and CI / CD pipelines.
+- Delivered several micro-services for an ETL pipeline using .Net Core and Azure Service Bus
+- Created and maintained original Kubernetes architecture and CI/CD pipelines in Azure
+- Wrote a database migrations and an automated environment creation pipeline with .Net Core
 
 **Software Engineer & Site Reliability Engineer**  
-*Trimble | March 2018 - November 2018*
+*Trimble - Westminster, CO | March 2018 - November 2018*
 
-I used containers and Kubernetes to create highly available services to improve and replace parts of existing infrastructure. I worked on a team that produced a web dashboard displaying near real time information about construction equipment on job sites out in the world. The stack is comprised of microservices built around the Kafka messaging platform. I worked to maintain existing code as well as created new apps and microservices. I worked with code across all layers of the stack that included front end AngularJS, .Net APIs, back end data processing microservices, and data storage layers of various flavors.
-
-**Software Engineer & Team Lead**  
-*Aegis Premier Technologies | July 2016 - March 2018*
-
-I worked to rebuild a legacy .NET application using .NET Core and Angular 5. We used a distributed architecture that communicates through REST APIs. I developed in all areas of the stack and provided support to other groups for the existing application when needed. As team lead, I hosted the daily scrum ceremonies and help to clear blockers for my team.
+- Delivered features with Angular and C# for an IOT application on micro-service architecture
+- Successfully ported .Net apps into containers and consolidated dozens of VM servers
+- Aided in creating initial Kubernetes cluster architecture and safely migrated production workloads
 
 **Lead Web Programmer**  
-*Stellar Blue Technologies | August 2015 - September 2016*
+*Stellar Blue Technologies - Appleton, WI | August 2015 - September 2016*
 
-I worked as a PHP full stack developer and created advanced WordPress themes and plugins. I extended functionality of existing projects, created, and deployed new projects regularly. We used a traditional LAMP stack, SCSS, jQuery, and Gulp tasks to deliver our products. Many of the sites I created are still active.
-
-## **Education**
-
-**A.A.S. in Software Development**  
-*Fox Valley Technical College | May 2015*
-
-Curriculum based in C# application development on desktop and mobile platforms with additional work in PHP web development.  
-Deans List recognition Spring 2013 & Fall 2014.
+- Built and maintained proprietary WordPress plugins to serve real estate listings and Twitter feeds
+- Crafted custom WordPress themes from scratch for various local businesses
+  

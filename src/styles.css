@@ -1,0 +1,31 @@
+h2 {
+    margin-bottom: 5px;
+}
+p{
+    margin-top: 10px;
+}
+body{
+    font-family: 'SFNS Display';
+}
+
+.testclass{
+    color: pink;
+}
+
+tr, td{
+    border: none;
+    border-top: none !important;
+}
+
+table ul{
+    margin-block-start: initial;
+    margin-block-end: initial;
+}
+
+.contactInfo{
+    text-align: center;
+}
+
+.contactInfo span{
+    font-weight: bold;
+}

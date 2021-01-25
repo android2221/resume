@@ -6,7 +6,7 @@ I wanted to be able use one source document for both print and web, while avoidi
 
 I use markdown-it in a docker container to do the rendering, and I use TravisCI to run my dockerfile and a script that commits the results to my GitHub pages branch. Markdown-it allows me to use some traditional HTML tags which helps with complicated formatting that markdown just can't do. 
 
-I use the 'save as PDF' functionality to create flat files as needed.
+I use the 'save as PDF' functionality in Chrome to create flat files as needed.
 
 ## Running
 Running the docker container will render the Resume.md file. You can simply wipe it out and replace with your contents.

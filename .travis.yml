@@ -3,7 +3,6 @@ language: minimal
 branches:
   only:
   - master
-  - develop
 
 services:
   - docker
@@ -13,4 +12,4 @@ env:
 
 script:
   - docker-compose up
-  - test $TRAVIS_BRANCH = "master" && ./push.sh
+  - ./push.sh

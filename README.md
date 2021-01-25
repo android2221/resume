@@ -8,7 +8,7 @@ I use markdown-it in a docker container to do the rendering, and I use TravisCI 
 
 I use the 'save as PDF' functionality in Chrome to create flat files as needed.
 
-## Running
+## Running Locally
 Running the docker container will render the Resume.md file. You can simply wipe it out and replace with your contents.
 ```
 git clone https://github.com/android2221/resume.git
@@ -18,6 +18,8 @@ docker-compose up
 
 This will render an index.html in the root of this repository.
 
+## Deploying
+Deploy is configured in ".travis.yml": it runs push.sh to update the GitHub pages branch.
 
-### Todos
+## Todos
 - I'd like to switch this to use GitHub actions, free TravisCI is very slow lately.

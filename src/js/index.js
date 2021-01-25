@@ -1,6 +1,9 @@
 // Require
-var MarkdownIt = require('markdown-it'),
-    md = new MarkdownIt();
+var md = require('markdown-it')({
+    html: true,
+    linkify: true,
+    typographer: true
+  });
 var fs = require("fs");
 
 console.log("current dir " + __dirname);

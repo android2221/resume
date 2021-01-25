@@ -1,5 +1,8 @@
 # My Resume
-My resume is written in markdown, built with docker and TravisCI, deployed to GitHub pages.
+My resume is written in markdown, built with docker and TravisCI, and deployed to GitHub pages. See it at android2221.github.io/resume
+
+## About
+I wanted to be able use one source document for both print and web, while avoiding cumbersome desktop publishing apps.
 
 I use markdown-it in a docker container to do the rendering, and I use TravisCI to run my dockerfile and a script that commits the results to my GitHub pages branch. Markdown-it allows me to use some traditional HTML tags which helps with complicated formatting that markdown just can't do. 
 

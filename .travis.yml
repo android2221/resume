@@ -3,7 +3,6 @@ language: minimal
 branches:
   only:
   - master
-  - develop
 
 services:
   - docker

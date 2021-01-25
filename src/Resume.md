@@ -1,15 +1,10 @@
 # Andy Hablewitz : Software Engineer
 
-<div class="contactInfo">
+<div class="contact-info">
 <span>Phone:</span> (303) 350-6930 
-<span>&nbsp·&nbsp</span> <span>Email:</span> mail@andyhablewitz.com
-<span>&nbsp·&nbsp</span><span>GitHub:</span> github.com/android2221
+<span>&nbsp·&nbsp</span> <span>Email:</span> <a href="mailto:mail@andyhablewitz.com">mail@andyhablewitz.com</a>
+<span>&nbsp·&nbsp</span><span>GitHub:</span> <a target="_blank" href="https://github.com/android2221">github.com/android2221</a>
 </div>
-
-
-## **Professional Summary**
-
-Software engineer with 5+ years of professional experience delivering enterprise grade, scalable, and sensible solutions to complex business problems. Highly motivated, curious, and apt to overcome challenges. Seeking an opportunity to use my zeal for problem solving to create successes across technical projects.
 
 ## **Current Skills**
 <table>
@@ -28,6 +23,7 @@ Software engineer with 5+ years of professional experience delivering enterprise
 <td><ul><li>Git / Github / Azure DevOps</li></ul></td>
 </tr>
 </table>
+
 
 ## **Education**
 **A.A.S. in Software Development**  

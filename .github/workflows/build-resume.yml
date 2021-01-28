@@ -1,11 +1,8 @@
 name: Docker Compose Actions Workflow
-on:
-  # Trigger the workflow on push or pull request,
-  # but only for the main branch
-  push:
-    branches:
-      - master
-      - feat/move-to-gh-actions # Remove this after development
+on: push
+  branches:
+    - master
+    - main
 jobs:
   test:
     runs-on: ubuntu-latest

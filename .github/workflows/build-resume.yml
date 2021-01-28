@@ -5,14 +5,14 @@ on:
   push:
     branches:
       - master
+      - main
       - feat/move-to-gh-actions # Remove this after development
 jobs:
-  test:
+  job1:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Build the resume
+        name: Build the resume
         run: docker-compose up
-      with: 
         env: 
           GH_TOKEN: ${{ secrets.github_token }}

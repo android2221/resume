@@ -6,7 +6,7 @@ on:
     branches:
       - master
       - main
-      - feat/move-to-gh-actions # Remove this after development
+      - 'feat/move-to-gh-actions' # Remove this after development
 jobs:
   job1:
     runs-on: ubuntu-latest

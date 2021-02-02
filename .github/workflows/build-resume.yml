@@ -1,15 +1,17 @@
 name: Docker Compose Actions Workflow
-on: push
-  branches:
-    - master
-    - main
+on:
+  # Trigger the workflow on push or pull request,
+  # but only for the main branch
+  push:
+    branches:
+      - master
+      - main
 jobs:
-  test:
+  job1:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Build the resume
+        name: Build the resume
         run: docker-compose up
-      with: 
         env: 
           GH_TOKEN: ${{ secrets.github_token }}

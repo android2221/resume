@@ -1,8 +1,7 @@
 # Andy Hablewitz : Software Engineer
 
 <div class="contact-info">
-<span>Phone:</span> (303) 350-6930 
-<span>&nbsp·&nbsp</span> <span>Email:</span> <a href="mailto:mail@andyhablewitz.com">mail@andyhablewitz.com</a>
+<span>Email:</span> <a href="mailto:mail@andyhablewitz.com">mail@andyhablewitz.com</a>
 <span>&nbsp·&nbsp</span><span>GitHub:</span> <a target="_blank" href="https://github.com/android2221">github.com/android2221</a>
 </div>
 

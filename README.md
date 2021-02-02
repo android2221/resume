@@ -18,6 +18,3 @@ docker-compose up
 
 ## Deploying
 Deploy is configured in ".travis.yml": it runs push.sh to update the GitHub pages branch.
-
-## Todos
-- I'd like to switch this to use GitHub actions, free TravisCI is very slow lately.

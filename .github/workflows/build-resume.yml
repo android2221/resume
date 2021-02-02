@@ -1,17 +1,18 @@
-name: Docker Compose Actions Workflow
-on:
-  # Trigger the workflow on push or pull request,
-  # but only for the main branch
+name: Render Resume
+on: 
   push:
     branches:
-      - master
-      - main
+    - master
+    - main
 jobs:
-  job1:
+  render-resume:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        name: Build the resume
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Build the resume
         run: docker-compose up
+      - name: Push to GH Pages
+        run: ./push.sh
         env: 
           GH_TOKEN: ${{ secrets.github_token }}

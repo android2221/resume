@@ -38,9 +38,9 @@
 **Software Engineer & Team Lead**  
 *Aegis Premier Technologies - Westminster, CO  | July 2016 - March 2018*
 
-- Refactored legacy C# .Net processes to achieve over 100% greater efficiency in some areas
-- Implemented and maintained CI/CD pipelines in Octopus and TeamCity
-- Leveraged my full-stack skills to deliver features to various REST APIs, MVC apps, Angular apps
+- Performing a lift and shift of production apps to Azure
+- Implementing and maintaining CI/CD pipelines in Octopus and TeamCity
+- Refactoring and delivering features to various REST APIs, MVC apps, Angular apps
 
 **Software Engineer**  
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*

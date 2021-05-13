@@ -38,16 +38,16 @@
 **Software Engineer & Team Lead**  
 *Aegis Premier Technologies - Westminster, CO  | July 2016 - March 2018*
 
-- Performing a lift and shift of production apps to Azure
+- Designed Azure infrastructure and performed a lift and shift of production apps
 - Implementing and maintaining CI/CD pipelines in Octopus and TeamCity
-- Refactoring and delivering features to various REST APIs, MVC apps, Angular apps
+- Refactoring and delivering features to various C# .Net REST APIs, MVC apps, and Angular apps
 
 **Software Engineer**  
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
 
-- Delivered several micro-services for an ETL pipeline using .Net Core and Azure Service Bus
+- Delivered several micro-services for an ETL pipeline using C# .Net Core and Azure Service Bus
 - Created and maintained original Kubernetes architecture and CI/CD pipelines in Azure
-- Wrote a database migrations and an automated environment creation pipeline with .Net Core
+- Fulfilled devops requirements by designing database migrations and environment creation pipelines
 
 **Software Engineer & Site Reliability Engineer**  
 *Trimble - Westminster, CO | March 2018 - November 2018*

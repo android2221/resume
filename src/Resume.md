@@ -40,7 +40,7 @@
 - Working on an Agile team of six developers to build solutions for non-profits to manage donors, process payments, and manage inbound / outbound mail
 - Maintaining and adding features to a CRM product built with C# .Net 4.7.2 Web Forms, EF, and SQL Server
 - Extending functionality in C# Web API projects and SOAP services
-- Leading our Azure migration by designing infrastructure and performing a lift and shift of production apps from on-prem VMs to Azure Vms. Transitioning from on-prem SQL Server to an Azure Managed SQL Instance. Onboarding new team-members to participate in the project.
+- Leading our Azure migration by designing infrastructure and performing a lift and shift of production apps from on-prem VMs to Azure VMs. Transitioning from on-prem SQL Server to an Azure Managed SQL Instance. Onboarding new team-members to participate in the project.
 - Adding features to a data visualization tool written for our inbound mail facilities built in C# .Net Core, Angular 7, Dapper, and SQL Server
 - Performing a multitude of performance enhancements using SQL Server indexes, moving business logic from SQL Scripts to code, and using parallelism or async/await where appropriate
 - Implementing and maintaining CI/CD pipelines in Octopus and TeamCity

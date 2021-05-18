@@ -42,16 +42,18 @@
 - Maintaining and adding features to a CRM product built with C# .Net 4.7.2 Web Forms, EF, and SQL Server
 - Extending functionality in C# Web API projects and SOAP services
 - Adding features to a data visualization tool written for our inbound mail facilities built in C# .Net Core, Angular 7, Dapper, and SQL Server
-- Leading our Azure migration by designing infrastructure and performing a lift and shift of production apps from on-prem VMs to Azure Vms. Onboarding new team-members to participate in the project.
+- Leading our Azure migration by designing infrastructure and performing a lift and shift of production apps from on-prem VMs to Azure Vms. Transitioning from on-prem SQL Server to an Azure Managed SQL Instance. Onboarding new team-members to participate in the project.
 - Performing a multitude of performance enhancements using SQL Server indexes, moving business logic from SQL Scripts to code, and using parallelism or async/await where appropriate
 - Implementing and maintaining CI/CD pipelines in Octopus and TeamCity
 
 **Software Engineer**  
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
 
+- Worked on a Kanban team of three developers to create an application for a hospital network that calculates physician payrolls based on their performance 
+- Built Web APIs and stateless data processors with C# .Net Core 2, Dapper, and Azure SQL
 - Delivered several micro-services for an ETL pipeline using C# .Net Core and Azure Service Bus
-- Created and maintained original Kubernetes architecture and CI/CD pipelines in Azure
-- Fulfilled devops requirements by designing database migrations and environment creation pipelines
+- Created and maintained Kubernetes architecture using Helm and CI/CD pipelines in Azure
+- Designed and implemented an automated environment creation pipeline, multi-tenant database configuration, and a database migrations methodology using DbUp
 
 **Software Engineer & Site Reliability Engineer**  
 *Trimble - Westminster, CO | March 2018 - November 2018*

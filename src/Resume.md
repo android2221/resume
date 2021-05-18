@@ -38,9 +38,13 @@
 **Software Engineer & Team Lead**  
 *Aegis Premier Technologies - Westminster, CO  | July 2016 - March 2018*
 
-- Designed Azure infrastructure and performed a lift and shift of production apps
+- Working on an Agile team of six developers to build solutions for non-profits to manage donors, process payments, and handle inbound and outbound mail
+- Maintaining and adding features to a CRM product built with C# .Net 4.7.2 Web Forms, EF, and SQL Server
+- Extending functionality in C# Web API projects and SOAP services
+- Adding features to a data visualization tool written for our inbound mail facilities built in C# .Net Core, Angular 7, Dapper, and SQL Server
+- Leading our Azure migration by designing infrastructure and performing a lift and shift of production apps from on-prem VMs to Azure Vms. Onboarding new team-members to participate in the project.
+- Performing a multitude of performance enhancements using SQL Server indexes, moving business logic from SQL Scripts to code, and using parallelism or async/await where appropriate
 - Implementing and maintaining CI/CD pipelines in Octopus and TeamCity
-- Refactoring and delivering features to various C# .Net REST APIs, MVC apps, and Angular apps
 
 **Software Engineer**  
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*

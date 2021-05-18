@@ -19,9 +19,7 @@
 <td><ul><li>Messaging Systems</li></ul></td>
 <td><ul><li>Redis</li></ul></td>
 <td><ul><li>Kubernetes / Docker</li></ul></td>
-<td><ul><li>Git / Github</li></ul></td>
-<td><ul><li>Azure DevOps / GitHub Actions</li></ul></td>
-</tr>
+<td><ul><li>Git / Github / Azure DevOps / GitHub Actions</li></ul></td>
 </table>
 
 

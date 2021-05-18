@@ -55,7 +55,8 @@
 - Built Web APIs and stateless data processors with C# .Net Core 2, Dapper, and Azure SQL
 - Delivered several micro-services for an ETL pipeline using C# .Net Core and Azure Service Bus
 - Created and maintained Kubernetes architecture using Helm and CI/CD pipelines in Azure DevOps
-- Designed and implemented an automated environment creation pipeline, multi-tenant database configuration, and a database migrations methodology using DbUp
+- Designed and implemented an automated environment creation pipeline 
+- Set up a multi-tenant database configuration and performed migrations using DbUp
 
 **Software Engineer & Site Reliability Engineer**  
 *Trimble - Westminster, CO | March 2018 - November 2018*
@@ -73,5 +74,6 @@
 - Worked with a team of about eight developers in a creative firm setting to produce contract websites and software work
 - Built a real estate listing platform for a local brokerage in the form of a custom WP theme and plugin
 - Created a proprietary twitter feed plugin to save tweets to a database and display with custom styles
+- Created CI/CD pipelines using git / github and Springloops
 - Created many custom websites / themes for local businesses
   

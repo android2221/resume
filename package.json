@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/android2221/android2221.github.io#readme",
   "dependencies": {
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-task-lists": "^2.1.1"
   }
 }

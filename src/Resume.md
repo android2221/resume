@@ -28,10 +28,9 @@
 *Allegion - Golden, CO | July 2021 - Current*
 
 - Creating solutions to deliver access credentials to mobile devices
-- Directly utilizing encryption and security mechanisms to deliver payloads to phones and and card readers 
+- Directly utilizing encryption and security mechanisms to deliver payloads to phones and card readers
 - Developing scalable infrastructure using microservices built on .Net, document data stores, and Azure PaaS platforms
 - Implementing monitoring and alerting using Azure Alerting and PagerDuty
-
 
 **Senior Software Engineer**  
 *Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*  
@@ -69,13 +68,6 @@
 - Transitioned to an SRE role and successfully ported .Net apps into containers and consolidated dozens of VM servers 
 - Aided in creating initial Kubernetes cluster architecture on AWS EKS and safely migrated many production workloads
 
-## **Education**
-**A.A.S. in Software Development**  
-*Fox Valley Technical College - Appleton, WI | Graduated May 2015*
-
-- Coursework in C# application development on desktop, web, and mobile; PHP web development
-- Dean's list recognition Spring 2013 and Fall 2014 semesters
-
 **Lead Web Programmer**  
 *Stellar Blue Technologies - Appleton, WI | August 2015 - September 2016*
 
@@ -85,3 +77,14 @@
 - Created CI/CD pipelines using git / github and Springloops
 - Created many custom websites / themes for local businesses
   
+## **Education**
+
+**A.A.S. in Software Development**  
+*Fox Valley Technical College - Appleton, WI | Graduated May 2015*
+
+- Coursework in C# application development on desktop, web, and mobile; PHP web development
+- Dean's list recognition Spring 2013 and Fall 2014 semesters
+
+**B.S. in Computer Science**  
+*University of Colorado - Denver, CO | Currently Completing*
+- Prospective Graduation: Spring 2026

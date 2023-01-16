@@ -13,33 +13,29 @@
 </td>
 <td><ul><li>Python</li></ul></td>
 <td><ul><li>AWS / Azure</li></ul></td>
-<td><ul><li>Relational databases</li></ul></td>
+<td><ul><li>Relational / Document Databases</li></ul></td>
 </tr>
 <tr>
 <td><ul><li>Messaging Systems</li></ul></td>
 <td><ul><li>Redis</li></ul></td>
-<td><ul><li>Kubernetes / Docker</li></ul></td>
-<td><ul><li>Git / Github / Azure DevOps / GitHub Actions</li></ul></td>
+<td><ul><li>Encryption / TLS / PKI</li></ul></td>
+<td><ul><li>CI/CD</li></ul></td>
 </table>
-
-
-## **Education**
-**A.A.S. in Software Development**  
-*Fox Valley Technical College - Appleton, WI | Graduated May 2015*
-
-- Coursework in C# application development on desktop, web, and mobile; PHP web development
-- Dean's list recognition Spring 2013 and Fall 2014 semesters
 
 ## **Experience**
 
-**Senior Software Engineer**  
-*Aegis Premier Technologies - Westminster, CO | September 2019 - Current*  
-**Software Engineer & Team Lead**  
-*Aegis Premier Technologies - Westminster, CO  | July 2016 - March 2018*
+**Cloud Software Engineer III**  
+*Allegion - Golden, CO | July 2021 - Current*
 
-- Working on an Agile team of six developers to build solutions for non-profits to manage donors, process payments, and manage inbound / outbound mail
-- Maintaining and adding features to a CRM product built with C# .Net 4.7.2 Web Forms, EF, and SQL Server
-- Extending functionality in C# Web API projects and SOAP services
+- Creating solutions to deliver access credentials to mobile devices
+- Directly utilizing encryption and security mechanisms to deliver payloads to phones and and card readers 
+- Developing scalable infrastructure using microservices built on .Net, document data stores, and Azure PaaS platforms
+- Implementing monitoring and alerting using Azure Alerting and PagerDuty
+
+
+**Senior Software Engineer**  
+*Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*  
+
 - Leading our Azure migration by designing infrastructure and performing a lift and shift of production apps from on-prem VMs to Azure VMs. Transitioning from on-prem SQL Server to an Azure Managed SQL Instance. Onboarding new team-members to participate in the project.
 - Adding features to a data visualization tool written for our inbound mail facilities built in C# .Net Core, Angular 7, Dapper, and SQL Server
 - Performing a multitude of performance enhancements using SQL Server indexes, moving business logic from SQL Scripts to code, and using parallelism or async/await where appropriate
@@ -56,15 +52,29 @@
 - Designed and implemented an automated environment creation pipeline 
 - Set up a multi-tenant database configuration and performed migrations using DbUp
 
+**Software Engineer & Team Lead**  
+*Aegis Premier Technologies - Westminster, CO  | July 2016 - March 2018*
+
+- Working on an Agile team of six developers to build solutions for non-profits to manage donors, process payments, and manage inbound / outbound mail
+- Maintaining and adding features to a CRM product built with C# .Net 4.7.2 Web Forms, EF, and SQL Server
+- Extending functionality in C# Web API projects and SOAP services
+
 **Software Engineer & Site Reliability Engineer**  
 *Trimble - Westminster, CO | March 2018 - November 2018*
 
 - Worked on a team of about 15 developers to produce an Angular application that tabulated and visualized construction equipment telematic data for Caterpilar
-- Teams used SAFe agile, and I frequently worked with two additional in-house teams of similar size, as well as a team of about 150 offshore developers
+- Teams used SAFe agile
 - Delivered features with Angular 4 and C# .Net Core on a micro-service architecture
 - Augmented or created pipelines in Jenkins
 - Transitioned to an SRE role and successfully ported .Net apps into containers and consolidated dozens of VM servers 
 - Aided in creating initial Kubernetes cluster architecture on AWS EKS and safely migrated many production workloads
+
+## **Education**
+**A.A.S. in Software Development**  
+*Fox Valley Technical College - Appleton, WI | Graduated May 2015*
+
+- Coursework in C# application development on desktop, web, and mobile; PHP web development
+- Dean's list recognition Spring 2013 and Fall 2014 semesters
 
 **Lead Web Programmer**  
 *Stellar Blue Technologies - Appleton, WI | August 2015 - September 2016*

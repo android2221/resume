@@ -33,7 +33,8 @@
 **Cloud Software Engineer III**  
 *Allegion - Golden, CO | July 2021 - February 2023*
 
-- Designed and developed software solutions to deliver mobile access credentials ("cards on phones")
+- Worked directly with teams at Apple to implement their resident key, student id, and employee badge offerings for Allegion product lines
+- Worked directly with teams at Google to produce solutions for their employee access cards
 - Built scalable, service-oriented architectures using Azure PaaS platforms (Azure Functions, Cosmos DB) with C# using .Net 6
 - Developed encryption libraries for secure payload delivery to phones and card readers
 - Integrated alerting and PagerDuty for real-time system monitoring
@@ -41,9 +42,9 @@
 **Senior Software Engineer**  
 *Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*
 
+- Delivered features to a data visualization tool built in C# .Net Core, Angular 7, Dapper, and SQL Server for our inbound mail facilities
 - Performed a lift and shift of production apps from on-prem VMs to Azure VMs; transitioned from on-prem SQL Server to an Azure Managed SQL Instance
-- Added features to a data visualization tool built in C# .Net Core, Angular 7, Dapper, and SQL Server for our inbound mail facilities
-- Made numerous performance enhancements by optimizing SQL Server indexes, migrating business logic from SQL scripts to application code, and using parallelism or async/await where appropriate
+- Made numerous performance enhancements by optimizing SQL Server indexes, migrating business logic from SQL scripts to application code, and using parallel processing where appropriate
 - Implemented and maintained CI/CD pipelines in Octopus and TeamCity
 - Contributed design work using Adobe XD
 

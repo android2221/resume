@@ -25,7 +25,7 @@
 **Senior Software Engineer I**  
 *Allegion - Golden, CO | February 2023 - Current*
 
-- Build scalable, service-oriented architectures with Azure Event Hubs and C# using .Net 8
+- Build scalable, service-oriented architectures with Azure Event Hubs, Functions Apps, and C# using .Net 8
 - Craft release plans and branching strategies for a team of eight
 - Convey architectures to stakeholders by creating UML and sequence diagrams
 - Guide small feature teams through development of stories

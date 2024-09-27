@@ -1,9 +1,6 @@
 version: '3.6'
 services:
   build-resume:
-    credentials:
-      username: $${{ secrets.DOCKER_USERNAME }}
-      password: $${{ secrets.DOCKER_PASSWORD }}
     image: node:10.15.3
     working_dir: /code/
     volumes:

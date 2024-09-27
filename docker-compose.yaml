@@ -1,4 +1,4 @@
-version: '3'
+version: '3.6'
 services:
   build-resume:
     image: node:10.15.3

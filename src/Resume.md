@@ -33,7 +33,7 @@
 **Cloud Software Engineer III**  
 *Allegion - Golden, CO | July 2021 - February 2023*
 
-- Collaborated with Apple to implement resident key, student ID, and employee badge functionalities for Allegion product lines
+- Collaborated with teams at Apple to implement resident key, student ID, and employee badge functionalities for Allegion product lines
 - Worked directly with Google teams to develop employee access card solutions
 - Built scalable, service-oriented architectures using Azure PaaS platforms (Azure Functions, Cosmos DB) with C# using .Net 6
 - Developed encryption libraries for secure payload delivery to phones and card readers

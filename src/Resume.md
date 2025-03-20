@@ -22,8 +22,9 @@ I'm a results-driven Software Engineer with 10 years of experience building reli
 
 ### **Senior Software Engineer I: Cloud**  
 *Allegion - Golden, CO | February 2023 - Current*
-- Deploying Azure Kubernetes Fleet instances; creating new workloads to replace a collection of legacy systems
-- Designing and building RESTful systems with Azure Event Hubs and Function Apps using .Net 8 and C#
+- Participating in a large effort to design and deploy new workloads to consolidate existing application services from various product lines. New services utilize C#, Kubernetes, Azure Event Hubs, and Cosmos DB or SQL Server. 
+- Implemented and deployed kubernetes instances utilizing Azure Kubernetes Fleet
+- Designing and building RESTful systems with Azure Event Hubs and Function Apps using .Net 8 and C# to support iOS and Android SDK development
 - Developed release methodologies and branching strategy for a team of eight
 - Conveying architecture designs to stakeholders by creating UML and sequence diagrams
 - Curating CI/CD tasks with YAML pipelines in Azure Dev Ops
@@ -48,16 +49,16 @@ I'm a results-driven Software Engineer with 10 years of experience building reli
 ### **Software Engineer**  
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
 - Developed an application for physician payroll calculations using C# .NET Core 2, Dapper, and Azure SQL
-- Designed microservices for an ETL pipeline using C# .NET Core and Azure Service Bus
+- Designed services for an ETL pipeline using C# .NET Core, Azure Service Bus, and SQL. We used Redis for caching and key-value storage.
 - Created and maintained Kubernetes architecture with Helm and CI/CD pipelines in Azure DevOps
-- Designed and implemented an automated environment creation pipeline
-- Designed and migrated a multi-tenant database configuration using DbUp
+- Designed and implemented an automated environment creation pipeline 
+- Designed and maintained a multi-tenant database configuration. Utilized DbUp for migrations
 
 ### **Software Engineer & Site Reliability Engineer**  
 *Trimble - Westminster, CO | March 2018 - November 2018*
 - Developed an Angular-based application to visualize construction equipment telematics for Caterpillar
 - Built features using Angular 4 and C# .NET Core on a microservice architecture
-- Automated CI/CD pipelines using Jenkins
+- Created automated CI/CD pipelines using Jenkins
 - Migrated .NET applications into containers and consolidated dozens of servers
 - Designed and deployed Kubernetes clusters on AWS EKS
 

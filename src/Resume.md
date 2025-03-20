@@ -1,7 +1,11 @@
 # Andy Hablewitz : Software Engineer
 
 **Email:** [mail@andyhablewitz.com](mailto:mail@andyhablewitz.com)  
-**GitHub:** [github.com/android2221](https://github.com/android2221)
+**GitHub:** [github.com/android2221](https://github.com/android2221)  
+**LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
+
+## **Personal Statement**
+I'm a results-driven Software Engineer with 10 years of experience building reliable and scalable solutions. With a strong sense of determination and dependability, I thrive in tackling complex technical challenges with efficiency and clarity. I am adept at leading small teams through the development of high-impact features. I have a strong ability to produce high-quality deliverables in every stage of the SDLC: from concept to production-grade solutions.
 
 ## **Current Skills**
 
@@ -14,12 +18,11 @@
 - Encryption / TLS / PKI  
 - Hobby Languages: Python & Go   
 
-
 ## **Experience**
 
 ### **Senior Software Engineer I: Cloud**  
 *Allegion - Golden, CO | February 2023 - Current*
-- Implementing and deploying Azure Kubernetes Fleet instances and developing workloads to replace repetitive legacy systems
+- Deploying Azure Kubernetes Fleet instances; creating new workloads to replace a collection of legacy systems
 - Designing and building RESTful systems with Azure Event Hubs and Function Apps using .Net 8 and C#
 - Developed release methodologies and branching strategy for a team of eight
 - Conveying architecture designs to stakeholders by creating UML and sequence diagrams
@@ -76,7 +79,8 @@
 
 ### **A.A.S. in Software Development**  
 *Fox Valley Technical College - Appleton, WI | Graduated May 2015*
-- Coursework in C# application development (desktop, web, mobile) and PHP web development
+- Coursework in C# application development on desktop, web, and mobile. 
+- Earned an additional Web Development certificate
 - Dean’s List recognition: Spring 2013, Fall 2014
 
 ### **B.S. in Computer Science**  

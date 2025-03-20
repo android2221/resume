@@ -9,14 +9,14 @@ I'm a results-driven Software Engineer with 10 years of experience building reli
 
 ## **Current Skills**
 
-- .Net Core / .Net / C#  
-- CI / CD  & Terraform
+- C# / .Net Core / .Net
+- CI / CD  & Terraform  
 - Distributed systems with Kubernetes  
 - AWS / Azure  
 - Relational / Document Databases  
 - Messaging Systems  
 - Encryption / TLS / PKI  
-- Hobby Languages: Python & Go   
+- Hobby Languages: Python & Go  
 
 ## **Experience**
 

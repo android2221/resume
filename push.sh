@@ -10,7 +10,7 @@ setup_git() {
 
 commit_website_files() {
   git checkout -b gh-pages
-  git add index.html
+  git add -f index.html
   git commit --message "Updating resume HTML - Build: $GITHUB_RUN_NUMBER"
 }
 

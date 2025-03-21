@@ -1,4 +1,4 @@
-# Andy Hablewitz : Senior Software Engineer
+# **Andy Hablewitz : Senior Software Engineer**
 
 **Email:** [mail@andyhablewitz.com](mailto:mail@andyhablewitz.com)  
 **GitHub:** [github.com/android2221](https://github.com/android2221)  

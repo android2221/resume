@@ -5,12 +5,12 @@
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-I'm a results-driven Software Engineer with 10 years of experience building reliable and scalable solutions. With a strong sense of determination and dependability, I thrive in tackling complex technical challenges with efficiency and clarity. I am adept at leading small teams through the development of high-impact features. I have a strong ability to produce high-quality deliverables in every stage of the SDLC: from concept to production-grade solutions.
+I'm a results-driven Software Engineer with 10 years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
 
 ## **Current Skills**
 
-- C# / .Net Core / .Net
-- CI / CD  & Terraform  
+- C# / .Net Core
+- CI / CD platforms & Terraform  
 - Distributed systems with Kubernetes  
 - AWS / Azure  
 - Relational / Document Databases  
@@ -22,11 +22,11 @@ I'm a results-driven Software Engineer with 10 years of experience building reli
 
 ### **Senior Software Engineer I: Cloud**  
 *Allegion - Golden, CO | February 2023 - Current*
-- Participating in a large effort to design and deploy new workloads to consolidate existing application services from various product lines. New services utilize C#, Kubernetes, Azure Event Hubs, and Cosmos DB or SQL Server. 
-- Implemented and deployed kubernetes instances utilizing Azure Kubernetes Fleet
-- Designing and building RESTful systems with Azure Event Hubs and Function Apps using .Net 8 and C# to support iOS and Android SDK development
+- Participating in a large effort to design and deploy new workloads to consolidate legacy application services from various product lines. New services utilize C#, Kubernetes, Azure Event Hubs, and Cosmos DB or SQL Server. 
+- Implemented, deployed, and maintain Azure Kubernetes Fleet instances using Terraform
+- Designing and building RESTful backend systems for use with iOS and Android SDKs. Systems utilize Azure Event Hubs and Function Apps using .Net 8 and C#
 - Developed release methodologies and branching strategy for a team of eight
-- Conveying architecture designs to stakeholders by creating UML and sequence diagrams
+- Conveying architecture plans to stakeholders through UML and sequence diagrams
 - Curating CI/CD tasks with YAML pipelines in Azure Dev Ops
 - Leading small feature teams through the development of story tasks
 
@@ -41,7 +41,7 @@ I'm a results-driven Software Engineer with 10 years of experience building reli
 ### **Senior Software Engineer**  
 *Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*
 - Delivered features for a data visualization tool using C# .NET Core, Angular 7, Dapper, and SQL Server
-- Migrated production apps from on-prem VMs to Azure VMs, transitioning from on-prem SQL Server to an Azure Managed SQL Instance
+- Migrated production apps from on-prem VMs to Azure VMs; transitioned from on-prem SQL Server to an Azure Managed SQL Instance
 - Optimized SQL Server indexes and migrated business logic from SQL scripts to application code
 - Developed and maintained CI/CD pipelines using Octopus and TeamCity
 - Contributed UI/UX design work using Adobe XD
@@ -49,8 +49,8 @@ I'm a results-driven Software Engineer with 10 years of experience building reli
 ### **Software Engineer**  
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
 - Developed an application for physician payroll calculations using C# .NET Core 2, Dapper, and Azure SQL
-- Designed services for an ETL pipeline using C# .NET Core, Azure Service Bus, and SQL. We used Redis for caching and key-value storage.
-- Created and maintained Kubernetes architecture with Helm and CI/CD pipelines in Azure DevOps
+- Designed services for an ETL pipeline using C# .NET Core, Azure Service Bus, and SQL. Used Redis for caching and key-value storage.
+- Created and maintained AKS Kubernetes architecture with Terraform and Helm; built CI/CD pipelines in Azure DevOps
 - Designed and implemented an automated environment creation pipeline 
 - Designed and maintained a multi-tenant database configuration. Utilized DbUp for migrations
 
@@ -64,7 +64,7 @@ I'm a results-driven Software Engineer with 10 years of experience building reli
 
 ### **Software Engineer & Team Lead**  
 *Aegis Premier Technologies - Westminster, CO | July 2016 - March 2018*
-- Led an agile team of six developers to build solutions for non-profits, including donor management and payment processing
+- Led an agile team of six developers through the development of CRM and marketing solutions for non-profits. Areas of focus around donor management and payment processing
 - Maintained and enhanced a CRM product using C# .NET 4.7.2 Web Forms, EF, and SQL Server
 - Developed new functionality for C# Web API projects and SOAP services
 

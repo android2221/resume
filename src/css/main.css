@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 14px;
+    line-height: 1.6;
+    position: relative;
+}
+.center-column{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 3px;
+}
+.task-list-item { list-style-type: none; } 
+.task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+#build-badge{
+    float: right;
+    position: relative;
+    top: 10px;
+}
+.contact-info{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact-info span{
+    font-weight: bold;
+}
+
+tr, td{
+    border: none;
+    border-top: none !important;
+}
+
+th, td{
+    padding: 5px 10px 5px 0px;
+}
+
+table ul{
+    margin-block-start: initial;
+    margin-block-end: initial;
+}
+
+a, a:hover, a:target, a:focus{
+    color: initial;
+    outline: none;
+}
+
+#footer-text{
+    margin-top: 30px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}

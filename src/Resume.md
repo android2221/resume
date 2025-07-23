@@ -10,7 +10,7 @@
 <tr>
 <td><ul><li>.Net Core / .Net / C#</li></ul></td>
 <td><ul><li>CI / CD</li></ul></td>
-<td><ul><li>AWS / Azure</li></ul></td>
+<td><ul><li>Azure / Cloud Hosting</li></ul></td>
 <td><ul><li>Relational / Document Databases</li></ul></td>
 </tr>
 <tr>
@@ -22,8 +22,16 @@
 
 ## **Experience**
 
-**Senior Software Engineer I**  
-*Allegion - Golden, CO | February 2023 - Current*
+**Senior Software Engineer II**  
+*Allegion - Golden, CO | May 2025 - Current*
+
+- Continuing efforts to design and deliver a unified architecture and series of new business apps to support Allegion's various product lines
+- Creating application templates and performing POC work to aide in setting patterns early
+- Interfacing with international teams to collaborate on feature sets and provide feedback
+- Developing features with C# Web Api applications hosted on Kubernetes in Azure
+
+**Senior Software Engineer**  
+*Allegion - Golden, CO | February 2023 - May 2025*
 
 - Build scalable, service-oriented architectures with Azure Event Hubs, Functions Apps, and C# using .Net 8
 - Craft release plans and branching strategies for a team of eight

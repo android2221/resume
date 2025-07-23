@@ -9,6 +9,11 @@ body {
     max-width: 1000px;
     padding: 3px;
 }
+
+h2{
+    margin-top: 20px;
+}
+
 .task-list-item { list-style-type: none; } 
 .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
 #build-badge{

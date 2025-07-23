@@ -5,7 +5,7 @@
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-I'm a results-driven Software Engineer with 10 years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
+I am a passionate Software Engineer with 10 years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
 
 ## **Current Skills**
 

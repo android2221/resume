@@ -10,28 +10,29 @@ I'm a results-driven Software Engineer with 10 years of experience designing and
 ## **Current Skills**
 
 - C# / .Net Core
-- CI / CD platforms & Terraform  
+- CI / CD platforms
+- Terraform
 - Distributed systems with Kubernetes  
 - AWS / Azure  
 - Relational / Document Databases  
 - Messaging Systems  
-- Encryption / TLS / PKI  
+- Encryption / TLS / PKI 
 - Hobby Languages: Python & Go  
 
 ## **Experience**
 
 ### **Senior Software Engineer II**  
 *Allegion - Golden, CO | May 2025 - Current*
-- Continuing efforts to design and deliver a unified architecture and series of new business apps to support Allegion's various product lines
-- Creating application templates and performing POC work to aide in setting patterns early
-- Interfacing with international teams to collaborate on feature sets and provide feedback
 - Developing features and creating a distributed application architecture with C# apps utilizing Azure Event Hub for communication
-- Creating technical solutions to transmit data to other teams to enables in order to enable licensing and reporting
+- Continuing efforts to design and deliver a unified architecture and series of new business apps to support Allegion's various product lines
+- Creating application templates and performing POC work to aid in setting patterns early
+- Interfacing with international teams to collaborate on feature sets and provide feedback
+- Creating technical solutions to prepare and transmit data to other teams in order to enable licensing and reporting
 
 ### **Senior Software Engineer: Cloud**  
 *Allegion - Golden, CO | February 2023 - May 2025*
 - Participating in a large effort to design and deploy new workloads to consolidate legacy application services from various product lines. New services utilize C#, Kubernetes, Azure Event Hubs, and Cosmos DB or SQL Server. 
-- Implemented, deployed, and maintain Azure Kubernetes Fleet instances using Terraform
+- Implemented, deployed, and maintained Azure Kubernetes Fleet instances using Terraform
 - Designing and building RESTful backend systems for use with iOS and Android SDKs. Systems utilize Azure Event Hubs and Function Apps using .Net 8 and C#
 - Developed release methodologies and branching strategy for a team of eight
 - Conveying architecture plans to stakeholders through UML and sequence diagrams
@@ -86,12 +87,12 @@ I'm a results-driven Software Engineer with 10 years of experience designing and
 
 ## **Education**
 
+### **B.S. in Computer Science**  
+*University of Colorado - Denver, CO | In Progress*  
+- **Anticipated Graduation:** Spring 2027
+
 ### **A.A.S. in Software Development**  
 *Fox Valley Technical College - Appleton, WI | Graduated May 2015*
 - Coursework in C# application development on desktop, web, and mobile. 
 - Earned an additional Web Development certificate
 - Dean’s List recognition: Spring 2013, Fall 2014
-
-### **B.S. in Computer Science**  
-*University of Colorado - Denver, CO | In Progress*  
-- **Anticipated Graduation:** Spring 2027

@@ -21,13 +21,14 @@ I'm a results-driven Software Engineer with 10 years of experience designing and
 
 ## **Experience**
 
-### **Senior Software Engineer II**  
+### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
-- Developing features and creating a distributed application architecture with C# apps utilizing Azure Event Hub for communication
 - Continuing efforts to design and deliver a unified architecture and series of new business apps to support Allegion's various product lines
+- Developing features and creating a distributed application architecture with C# .NET apps and Azure Event Hub for communication
+- Migrating functionality from Azure PaaS platforms into containerized applications for consistency
 - Creating application templates and performing POC work to aid in setting patterns early
-- Interfacing with international teams to collaborate on feature sets and provide feedback
-- Creating technical solutions to prepare and transmit data to other teams in order to enable licensing and reporting
+- Interfacing with international teams to collaborate and provide feedback on feature sets
+- Creating technical solutions to prepare and transmit data in order to enable license tracking and reporting
 
 ### **Senior Software Engineer: Cloud**  
 *Allegion - Golden, CO | February 2023 - May 2025*

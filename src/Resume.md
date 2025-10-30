@@ -13,7 +13,7 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 - CI / CD platforms
 - Terraform
 - Distributed systems with Kubernetes  
-- AWS / Azure  
+- Azure / Foundational AWS Knowledge
 - Relational / Document Databases  
 - Messaging Systems  
 - Encryption / TLS / PKI 
@@ -23,12 +23,12 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
-- Continuing efforts to design and deliver a unified architecture and series of new business apps to support Allegion's various product lines
-- Developing features and creating a distributed application architecture with C# .NET apps and Azure Event Hub for communication
-- Migrating functionality from Azure PaaS platforms into containerized applications for consistency
+- Designing and building a unified 'platform' architecture and series of new business apps to support Allegion's various product lines
+- Developing new features using a distributed application architecture with C# .NET apps, Azure Event Hub, and AKS. 
+- Migrating functionality off of Azure PaaS platforms into containerized applications for consistency across the software organization
 - Creating application templates and performing POC work to aid in setting patterns early
-- Interfacing with international teams to collaborate and provide feedback on feature sets
-- Creating technical solutions to prepare and transmit data in order to enable license tracking and reporting
+- Interfacing with international teams to collaborate and provide feedback and review feature work
+- Mentoring and pairing with engineers through complex work items
 
 ### **Senior Software Engineer: Cloud**  
 *Allegion - Golden, CO | February 2023 - May 2025*
@@ -89,8 +89,7 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 ## **Education**
 
 ### **B.S. in Computer Science**  
-*University of Colorado - Denver, CO | In Progress*  
-- **Anticipated Graduation:** Spring 2027
+*University of Colorado - Denver, CO | Partial coursework completed*  
 
 ### **A.A.S. in Software Development**  
 *Fox Valley Technical College - Appleton, WI | Graduated May 2015*

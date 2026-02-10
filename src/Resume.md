@@ -6,7 +6,7 @@
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-I am a passionate Software Engineer with over ten years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
+Software Engineer with over ten years of experience designing and delivering reliable, scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC.
 
 ## **Technical Skills**
 
@@ -48,43 +48,26 @@ I am a passionate Software Engineer with over ten years of experience designing 
 - Developed encryption libraries to securely transmit payloads to mobile devices and card readers
 - Implemented observability and real-time alerting using Azure Monitor and PagerDuty to ensure system reliability.
 
-### **Senior Software Engineer**  
+### **Senior Software Engineer**
 *Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*
 - Delivered features for a data visualization tool using C# .NET Core, Angular 7, Dapper, and SQL Server
 - Migrated production apps from on-prem VMs to Azure VMs; transitioned from on-prem SQL Server to an Azure Managed SQL Instance
-- Optimized SQL Server indexes and migrated business logic from SQL scripts to application code
 - Developed and maintained CI/CD pipelines using Octopus and TeamCity
-- Contributed UI/UX design work using Adobe XD
 
-### **Software Engineer**  
+### **Software Engineer**
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
-- Developed an application for physician payroll calculations using C# .NET Core 2, Dapper, and Azure SQL
 - Designed distributed ETL services using event-driven patterns with Azure Service Bus and SQL. Used Redis for caching and key-value storage.
 - Created and maintained AKS Kubernetes architecture with Terraform and Helm; built CI/CD pipelines in Azure DevOps
-- Designed and implemented an automated environment creation pipeline 
-- Designed and maintained a multi-tenant database configuration. Utilized DbUp for migrations
 
-### **Software Engineer & Site Reliability Engineer**  
+### **Software Engineer & Site Reliability Engineer**
 *Trimble - Westminster, CO | March 2018 - November 2018*
-- Developed an Angular-based application to visualize construction equipment telematics for Caterpillar
-- Built full-stack features using Angular and C# .NET Core microservices in a distributed, containerized architecture
-- Created automated CI/CD pipelines using Jenkins
-- Migrated .NET applications into containers and consolidated dozens of servers
-- Designed and deployed Kubernetes clusters on AWS EKS
+- Built full-stack features using Angular and C# .NET Core microservices in a distributed, containerized architecture; designed and deployed Kubernetes clusters on AWS EKS
 
-### **Software Engineer & Team Lead**  
+### **Software Engineer & Team Lead**
 *Aegis Premier Technologies - Westminster, CO | July 2016 - March 2018*
-- Led an agile team of six developers through the development of CRM and marketing solutions for non-profits. Areas of focus around donor management and payment processing
-- Maintained and enhanced a CRM product using C# .NET 4.7.2 Web Forms, EF, and SQL Server
-- Developed new functionality for C# Web API projects and SOAP services
 
-### **Lead Web Programmer**  
+### **Lead Web Programmer**
 *Stellar Blue Technologies - Appleton, WI | August 2015 - September 2016*
-- Developed websites and software solutions for clients in a creative agency setting
-- Built a real estate listing platform as a custom WordPress theme and plugin
-- Created a proprietary Twitter feed plugin to store and display tweets with custom styles
-- Automated deployment processes using Git, GitHub, and Springloops
-- Developed custom websites and themes for local businesses
 
 ## **Education**
 

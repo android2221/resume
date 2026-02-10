@@ -6,7 +6,7 @@
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-I am a passionate Software Engineer with 10 years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
+I am a passionate Software Engineer with over ten years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
 
 ## **Technical Skills**
 
@@ -17,7 +17,8 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 - **Databases:** SQL Server, Cosmos DB (Document DB), Azure SQL
 - **Cloud Platforms:** Azure (Primary), AWS (Foundational)
 - **Infrastructure & DevOps:** Terraform, CI/CD Pipelines, Azure DevOps
-- **Security:** Encryption, TLS, PKI  
+- **Security:** Encryption, TLS, PKI
+- **AI & Productivity:** Claude, Gemini, GitHub Copilot, AI Agent Orchestration
 
 ## **Experience**
 

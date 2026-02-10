@@ -29,8 +29,9 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 - Creating application templates and performing POC work to aid in setting patterns early
 - Interfacing with international teams to collaborate and provide feedback and review feature work
 - Mentoring and pairing with engineers through complex work items
+- Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
 
-### **Senior Software Engineer: Cloud**  
+### **Senior Software Engineer: Cloud**
 *Allegion - Golden, CO | February 2023 - May 2025*
 - Architecting and deploying distributed microservices to consolidate legacy systems using Kubernetes, Azure Event Hubs, and Cosmos DB. 
 - Implemented, deployed, and maintained Azure Kubernetes Fleet instances using Terraform

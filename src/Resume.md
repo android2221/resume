@@ -14,7 +14,7 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 - **Distributed Systems:** Microservices, Event-Driven Architecture, Service-Oriented Architecture
 - **Messaging & Streaming:** Azure Event Hubs, Azure Service Bus, Redis
 - **Container Orchestration:** Kubernetes, AKS, Docker, Helm
-- **Databases:** SQL Server, Cosmos DB, Azure SQL (Relational & Document)
+- **Databases:** SQL Server, Cosmos DB (Document DB), Azure SQL
 - **Cloud Platforms:** Azure (Primary), AWS (Foundational)
 - **Infrastructure & DevOps:** Terraform, CI/CD Pipelines, Azure DevOps
 - **Security:** Encryption, TLS, PKI  
@@ -32,7 +32,7 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 
 ### **Senior Software Engineer: Cloud**  
 *Allegion - Golden, CO | February 2023 - May 2025*
-- Architecting and deploying distributed microservices to consolidate legacy systems, using Kubernetes, Azure Event Hubs, and Cosmos DB. 
+- Architecting and deploying distributed microservices to consolidate legacy systems using Kubernetes, Azure Event Hubs, and Cosmos DB. 
 - Implemented, deployed, and maintained Azure Kubernetes Fleet instances using Terraform
 - Designing RESTful APIs and event-driven backend services using .NET 8, Azure Event Hubs, and Function Apps to support mobile SDK integrations.
 - Developed release methodologies and branching strategy for a team of eight

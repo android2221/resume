@@ -42,7 +42,7 @@ I am a passionate Software Engineer with over ten years of experience designing 
 
 ### **Software Engineer III: Cloud**  
 *Allegion - Golden, CO | July 2021 - February 2023*
-- Partnered with teams at Apple to implement Resident Key, Student ID, and Employee Badge functionalities for Allegion products
+- Partnered with teams at Apple to implement their ResidentKey, StudentID, and EmployeeBadge functionalities for Allegion products
 - Collaborated with Google engineers to develop enterprise employee access card solutions
 - Built service-oriented architectures using Azure Functions and Cosmos DB
 - Developed encryption libraries to securely transmit payloads to mobile devices and card readers

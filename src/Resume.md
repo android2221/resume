@@ -25,10 +25,8 @@ I am a passionate Software Engineer with over ten years of experience designing 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
 - Designing and building a unified 'platform' architecture and series of new business apps to support Allegion's various product lines
-- Building event-driven microservices using C# .NET, Azure Event Hubs, and Kubernetes (AKS) for asynchronous, loosely-coupled processing. 
-- Migrating workloads from Azure PaaS to containerized microservices, improving portability and deployment consistency across teams.
-- Creating application templates and performing POC work to aid in setting patterns early
-- Interfacing with international teams to collaborate and provide feedback and review feature work
+- Building and migrating event-driven microservices using C# .NET, Azure Event Hubs, and Kubernetes (AKS), improving portability and deployment consistency across teams.
+- Establishing patterns through application templates and POC work; collaborating with international teams on feature development and code review.
 - Mentoring and pairing with engineers through complex work items
 - Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
 
@@ -36,7 +34,7 @@ I am a passionate Software Engineer with over ten years of experience designing 
 *Allegion - Golden, CO | February 2023 - May 2025*
 - Architecting and deploying distributed microservices to consolidate legacy systems using Kubernetes, Azure Event Hubs, and Cosmos DB. 
 - Implemented, deployed, and maintained Azure Kubernetes Fleet instances using Terraform
-- Designing RESTful APIs and event-driven backend services using .NET 8, Azure Event Hubs, and Function Apps to support mobile SDK integrations.
+- Designing RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support mobile SDK integrations.
 - Developed release methodologies and branching strategy for a team of eight
 - Conveying architecture plans to stakeholders through UML and sequence diagrams
 - Curating CI/CD tasks with YAML pipelines in Azure Dev Ops
@@ -46,7 +44,7 @@ I am a passionate Software Engineer with over ten years of experience designing 
 *Allegion - Golden, CO | July 2021 - February 2023*
 - Partnered with teams at Apple to implement Resident Key, Student ID, and Employee Badge functionalities for Allegion products
 - Collaborated with Google engineers to develop enterprise employee access card solutions
-- Built scalable, service-oriented architectures using Azure Functions and Cosmos DB, designing for high availability and horizontal scaling.
+- Built service-oriented architectures using Azure Functions and Cosmos DB
 - Developed encryption libraries to securely transmit payloads to mobile devices and card readers
 - Implemented observability and real-time alerting using Azure Monitor and PagerDuty to ensure system reliability.
 

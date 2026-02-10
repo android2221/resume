@@ -1,40 +1,40 @@
 # **Andy Hablewitz : Senior Software Engineer**
+### Backend & Distributed Systems
 
 **Email:** [mail@andyhablewitz.com](mailto:mail@andyhablewitz.com)  
 **GitHub:** [github.com/android2221](https://github.com/android2221)  
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-I am a passionate Software Engineer with 10 years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
+I am a passionate Software Engineer with over ten years of experience designing and delivering reliable and scalable software solutions. Known for my determination and dependability, I excel at solving complex technical challenges with efficiency and clarity. Skilled in leading small teams, I drive the development of high-impact features while ensuring quality at every stage of the SDLC.
 
-## **Current Skills**
+## **Technical Skills**
 
-- C# / .Net Core
-- CI / CD platforms
-- Terraform
-- Distributed systems with Kubernetes  
-- Azure / Foundational AWS Knowledge
-- Relational / Document Databases  
-- Messaging Systems  
-- Encryption / TLS / PKI 
-- Hobby Languages: Python & Go  
+- **Languages:** C#, .NET Core, Python, Go
+- **Distributed Systems:** Microservices, Event-Driven Architecture, Service-Oriented Architecture
+- **Messaging & Streaming:** Azure Event Hubs, Azure Service Bus, Redis
+- **Container Orchestration:** Kubernetes, AKS, Docker, Helm
+- **Databases:** SQL Server, Cosmos DB (Document DB), Azure SQL
+- **Cloud Platforms:** Azure (Primary), AWS (Foundational)
+- **Infrastructure & DevOps:** Terraform, CI/CD Pipelines, Azure DevOps
+- **Security:** Encryption, TLS, PKI
+- **AI & Productivity:** Claude, Gemini, GitHub Copilot, AI Agent Orchestration
 
 ## **Experience**
 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
 - Designing and building a unified 'platform' architecture and series of new business apps to support Allegion's various product lines
-- Developing new features using a distributed application architecture with C# .NET apps, Azure Event Hub, and AKS. 
-- Migrating functionality off of Azure PaaS platforms into containerized applications for consistency across the software organization
-- Creating application templates and performing POC work to aid in setting patterns early
-- Interfacing with international teams to collaborate and provide feedback and review feature work
+- Building and migrating event-driven microservices using C# .NET, Azure Event Hubs, and Kubernetes (AKS), improving portability and deployment consistency across teams.
+- Establishing patterns through application templates and POC work; collaborating with international teams on feature development and code review.
 - Mentoring and pairing with engineers through complex work items
+- Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
 
-### **Senior Software Engineer: Cloud**  
+### **Senior Software Engineer: Cloud**
 *Allegion - Golden, CO | February 2023 - May 2025*
-- Participating in a large effort to design and deploy new workloads to consolidate legacy application services from various product lines. New services utilize C#, Kubernetes, Azure Event Hubs, and Cosmos DB or SQL Server. 
+- Architecting and deploying distributed microservices to consolidate legacy systems using Kubernetes, Azure Event Hubs, and Cosmos DB. 
 - Implemented, deployed, and maintained Azure Kubernetes Fleet instances using Terraform
-- Designing and building RESTful backend systems for use with iOS and Android SDKs. Systems utilize Azure Event Hubs and Function Apps using .Net 8 and C#
+- Designing RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support mobile SDK integrations.
 - Developed release methodologies and branching strategy for a team of eight
 - Conveying architecture plans to stakeholders through UML and sequence diagrams
 - Curating CI/CD tasks with YAML pipelines in Azure Dev Ops
@@ -42,11 +42,11 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 
 ### **Software Engineer III: Cloud**  
 *Allegion - Golden, CO | July 2021 - February 2023*
-- Partnered with teams at Apple to implement Resident Key, Student ID, and Employee Badge functionalities for Allegion products
+- Partnered with teams at Apple to implement their ResidentKey, StudentID, and EmployeeBadge functionalities for Allegion products
 - Collaborated with Google engineers to develop enterprise employee access card solutions
-- Built scalable, service-oriented architectures using Azure PaaS platforms (Azure Functions, Cosmos DB) with C# using .NET 6
+- Built service-oriented architectures using Azure Functions and Cosmos DB
 - Developed encryption libraries to securely transmit payloads to mobile devices and card readers
-- Implemented real-time system monitoring using Azure alerting tools and PagerDuty
+- Implemented observability and real-time alerting using Azure Monitor and PagerDuty to ensure system reliability.
 
 ### **Senior Software Engineer**  
 *Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*
@@ -59,7 +59,7 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 ### **Software Engineer**  
 *Pacific Medical Data Solutions - Denver, CO | November 2018 - September 2019*
 - Developed an application for physician payroll calculations using C# .NET Core 2, Dapper, and Azure SQL
-- Designed services for an ETL pipeline using C# .NET Core, Azure Service Bus, and SQL. Used Redis for caching and key-value storage.
+- Designed distributed ETL services using event-driven patterns with Azure Service Bus and SQL. Used Redis for caching and key-value storage.
 - Created and maintained AKS Kubernetes architecture with Terraform and Helm; built CI/CD pipelines in Azure DevOps
 - Designed and implemented an automated environment creation pipeline 
 - Designed and maintained a multi-tenant database configuration. Utilized DbUp for migrations
@@ -67,7 +67,7 @@ I am a passionate Software Engineer with 10 years of experience designing and de
 ### **Software Engineer & Site Reliability Engineer**  
 *Trimble - Westminster, CO | March 2018 - November 2018*
 - Developed an Angular-based application to visualize construction equipment telematics for Caterpillar
-- Built features using Angular 4 and C# .NET Core on a microservice architecture
+- Built full-stack features using Angular and C# .NET Core microservices in a distributed, containerized architecture
 - Created automated CI/CD pipelines using Jenkins
 - Migrated .NET applications into containers and consolidated dozens of servers
 - Designed and deployed Kubernetes clusters on AWS EKS

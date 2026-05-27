@@ -5,8 +5,9 @@ services:
     working_dir: /code/
     volumes:
       - ./:/code/
+      - ../../:/save-dir/
     environment: 
-      - RENDER_FILE_LOCATION=/code/src/Resume.md
+      - RENDER_FILE_LOCATION=/code/Resume.md
     command: >
       bash -c 'npm install && npm start && rm -rf ./node_modules && echo "Cleared node_modules"'
     

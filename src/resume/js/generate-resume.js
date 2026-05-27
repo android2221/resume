@@ -9,9 +9,9 @@ var fs = require("fs");
 console.log("current dir " + __dirname);
 
 // setup
-var saveDir = '/code/';
-var finalFile = saveDir + 'index.html';
-var htmlDir = '/code/src/html/';
+var saveDir = '/save-dir/';
+var finalFile = saveDir + 'resume.html';
+var htmlDir = '/code/html/';
 
 if (!fs.existsSync(saveDir)){
     fs.mkdirSync(saveDir);

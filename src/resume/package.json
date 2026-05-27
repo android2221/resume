@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My Resume page's buildchain to create an HTML page out of markdown",
   "scripts": {
-    "start": "node ./src/js/index.js"
+    "start": "node ./js/generate-resume.js"
   },
   "repository": {
     "type": "git",

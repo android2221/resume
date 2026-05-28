@@ -5,4 +5,5 @@ permalink: "/index.html"
 ---
 # Home
 
-[View my résumé](/resume.html)
+Things
+[Résumé](/resume) 

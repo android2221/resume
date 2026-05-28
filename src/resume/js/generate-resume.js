@@ -10,11 +10,15 @@ console.log("current dir " + __dirname);
 
 // setup
 var saveDir = '/save-dir/';
-var finalFile = saveDir + 'resume.html';
+var finalFile = saveDir + 'resume/index.html';
 var htmlDir = '/code/src/resume/html/';
 
+var resumeDir = saveDir + 'resume/';
 if (!fs.existsSync(saveDir)){
     fs.mkdirSync(saveDir);
+}
+if (!fs.existsSync(resumeDir)){
+    fs.mkdirSync(resumeDir);
 }
 
 // Do Work

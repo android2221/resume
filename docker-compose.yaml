@@ -11,6 +11,7 @@ services:
     command: >
       bash -c '
         npm install && npm start && \
+        mkdir -p /save-dir/css && cp -r /code/src/resume/css/. /save-dir/css && \
         cd /code/src/blog && npm install && npx eleventy && \
         rm -rf ./node_modules /code/src/resume/node_modules && \
         echo "Cleared node_modules"

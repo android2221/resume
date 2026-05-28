@@ -5,9 +5,13 @@ services:
     working_dir: /code/
     volumes:
       - ./:/code/
-      - ../../:/save-dir/
-    environment: 
+      - ../../public:/save-dir/
+    environment:
       - RENDER_FILE_LOCATION=/code/Resume.md
     command: >
-      bash -c 'npm install && npm start && rm -rf ./node_modules && echo "Cleared node_modules"'
+      bash -c '
+        npm install && npm start && \
+        cd /code/src/blog && npm install && npx eleventy && \
+        rm -rf ./node_modules && echo "Cleared node_modules"
+      '
     

@@ -1,0 +1,7 @@
+<ul>
+  {% for name, item in collections %}
+    {% if name != "all" %}
+    <li>{{ name }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>

@@ -5,5 +5,10 @@ permalink: "/index.html"
 ---
 # Home
 
-Things
-[Résumé](/resume) 
+## Things
+- [Résumé](/resume)
+- [Blog](/blog)
+- [Hacker Scroller](https://hacker-scroller.com)
+- [Weird Software Person](https://weirdsoftwareperson.com)
+
+// TODO: needs target=blank

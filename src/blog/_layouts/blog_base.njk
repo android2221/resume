@@ -1,7 +1,13 @@
-<ul>
-  {% for name, item in collections %}
-    {% if name != "all" %}
-    <li>{{ name }}</li>
-    {% endif %}
+---
+layout: base.njk
+---
+
+<h1>Blog</h1>
+<div class="post-list">
+  {% for post in collections.posts | reverse %}
+    <a href="{{ post.url }}" class="post-item">
+      <span class="post-item__date">{{ post.date | date("YYYY-MM-DD") }}</span>
+      <span class="post-item__title">{{ post.data.title }}</span>
+    </a>
   {% endfor %}
-</ul>
+</div>

@@ -1,0 +1,31 @@
+version: '3.6'
+services:
+  # Watches Resume.md and rebuilds resume HTML on change
+  resume-watch:
+    image: node:18
+    working_dir: /code/src/resume/
+    volumes:
+      - ./:/code/
+      - ./public:/save-dir/
+    environment:
+      - RENDER_FILE_LOCATION=/code/src/resume/Resume.md
+    command: >
+      bash -c '
+        npm install && npm start && npm run watch
+      '
+
+  # Eleventy dev server with hot reload (serves the whole site at localhost:8080)
+  blog-serve:
+    image: node:18
+    working_dir: /code/src/blog/
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./:/code/
+    depends_on:
+      resume-watch:
+        condition: service_started
+    command: >
+      bash -c '
+        npm install && npx @11ty/eleventy --serve --output=../../public
+      '

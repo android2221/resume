@@ -1,6 +1,4 @@
 ---
-title: "Blog Home"
+title: "Blog"
 layout: blog_base.njk
-permalink: "/blog/index.html"
 ---
-# Blog Home

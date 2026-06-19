@@ -1,11 +1,23 @@
 module.exports = function(eleventyConfig) {
-  // Set input and output directories
+  // Register a date filter for Nunjucks templates
+  eleventyConfig.addFilter("date", function(dateObj, format) {
+    if (!dateObj) return "";
+    const d = new Date(dateObj);
+    if (isNaN(d.getTime())) return "";
+    const year = d.getFullYear();
+    const month = String(d.getMonth() + 1).padStart(2, "0");
+    const day = String(d.getDate()).padStart(2, "0");
+    if (format === "YYYY-MM-DD") return `${year}-${month}-${day}`;
+    if (format === "YYYY") return String(year);
+    return `${year}-${month}-${day}`;
+  });
+
   return {
     dir: {
       input: ".",
       includes: "_includes",
       layouts: "_layouts",
-      output: "../../public"   // From src/blog to repo-root public/
+      output: "../../public"
     }
   };
 };

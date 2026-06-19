@@ -10,7 +10,7 @@ I am a Senior Software engineer with over ten years of experience designing and 
 
 ## **Technical Skills**
 
-- **Languages:** C#, .NET Core, Go, Python
+- **Languages:** C#, .NET Core, familiarity with Go, Python
 - **Distributed Systems:** Microservices, Event-Driven Architecture, Service-Oriented Architecture
 - **Messaging & Streaming:** Azure Event Hubs, Azure Service Bus, Redis
 - **Container Orchestration:** Kubernetes, Docker, Helm

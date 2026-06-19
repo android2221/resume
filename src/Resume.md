@@ -6,11 +6,11 @@
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-I am a Senior Software engineer with over ten years of experience designing and delivering reliable and scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC.
+I am a Senior Software engineer with over ten years of experience designing and delivering reliable and scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC. 
 
 ## **Technical Skills**
 
-- **Languages:** C# / .NET Core; Some Python & Go
+- **Languages:** C#, .NET Core, Go, Python
 - **Distributed Systems:** Microservices, Event-Driven Architecture, Service-Oriented Architecture
 - **Messaging & Streaming:** Azure Event Hubs, Azure Service Bus, Redis
 - **Container Orchestration:** Kubernetes, Docker, Helm
@@ -24,24 +24,22 @@ I am a Senior Software engineer with over ten years of experience designing and 
 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
-- Direct ownership of the creation and delivery of almost all pipelines and infrastructure efforts; working daily in C# apps and IaC templates. 
-- Designing and building a unified 'platform' architecture and series of new business apps to support Allegion's various product lines, DRYing up functionality for the entire organization
-- Creating a distinct service oriented architecture by porting functionality out of monoliths
-- Migrating workloads away from app services platforms in favor of Kubernetes to save 10x on hosting cost
-- Redesigning and rewriting collections of services to consolidate functionality and improve simplicity
-- Building event-driven microservices using C# .NET, Azure Event Hubs, and Azure Kubernetes Service (AKS), improving portability and deployment consistency across teams.
-- Establishing patterns through application templates and POC work; collaborating with international teams on feature development and code review.
-- Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency. 
+- Direct ownership of the creation and delivery of almost all pipelines and infrastructure efforts; working daily in C# apps and Infrastructure as Code (IaC) templates.
+- Architecting a unified platform of event-driven microservices to replace legacy monoliths, using C# .NET, Azure Event Hubs, and Azure Kubernetes Service (AKS) — consolidating duplicated logic across three teams/apps into shared services and improving deployment consistency org-wide
+- Migrating workloads from App Service to Kubernetes, cutting hosting costs 10x
+- Establishing reusable patterns through application templates and proof-of-concept work; collaborating with international teams on feature development and code review
+- Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
 
 ### **Senior Software Engineer: Cloud**
 *Allegion - Golden, CO | February 2023 - May 2025*
 - Designed RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support iOS and Android SDKs for various Allegion product lines. 
 - Services I wrote successfully scaled from greenfield projects to handling 13 million requests per day.
-- Designed and produced new hosting paradigms Azure Kubernetes Fleet instances using Terraform
+- Designed and produced new hosting paradigms using Azure Kubernetes instances with Terraform, scaling infrastructure management across 3 clusters
 - Developed release methodologies and branching strategy for a team of eight
-- Conveying architecture plans to stakeholders through UML and sequence diagrams
-- Curating CI/CD tasks with YAML pipelines in Azure Dev Ops
-- Leading small feature teams through the development of story tasks
+- Achieved a 2-year stretch with zero hotfixes, production downtime, or rollbacks as a direct result of the new release process
+- Conveyed architecture plans to stakeholders through UML and sequence diagrams
+- Curated CI/CD tasks with YAML pipelines in Azure Dev Ops
+- Led small feature teams through the development of story tasks
 
 ### **Software Engineer III: Cloud**  
 *Allegion - Golden, CO | July 2021 - February 2023*

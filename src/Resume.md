@@ -1,40 +1,43 @@
 # **Andy Hablewitz : Senior Software Engineer**
-### Backend & Distributed Systems
+### Specializing in Backend & Distributed Systems
 
 **Email:** [mail@andyhablewitz.com](mailto:mail@andyhablewitz.com)  
 **GitHub:** [github.com/android2221](https://github.com/android2221)  
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-Software Engineer with over ten years of experience designing and delivering reliable, scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC.
+I am a Senior Software engineer with over ten years of experience designing and delivering reliable and scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC.
 
 ## **Technical Skills**
 
-- **Languages:** C#, .NET Core, Python, Go
+- **Languages:** C# / .NET Core; Some Python & Go
 - **Distributed Systems:** Microservices, Event-Driven Architecture, Service-Oriented Architecture
 - **Messaging & Streaming:** Azure Event Hubs, Azure Service Bus, Redis
-- **Container Orchestration:** Kubernetes, AKS, Docker, Helm
-- **Databases:** SQL Server, Cosmos DB (Document DB), Azure SQL
+- **Container Orchestration:** Kubernetes, Docker, Helm
+- **Databases:** SQL Server, Postgres, CosmosDb, MongoDB 
 - **Cloud Platforms:** Azure (Primary), AWS (Foundational)
-- **Infrastructure & DevOps:** Terraform, CI/CD Pipelines, Azure DevOps
+- **Infrastructure & DevOps:** Terraform, CI/CD Pipelines, Azure DevOps, GitHub Actions
 - **Security:** Encryption, TLS, PKI
-- **AI & Productivity:** Claude, Gemini, GitHub Copilot, AI Agent Orchestration
+- **AI:** Agentic development with cloud and local models
 
 ## **Experience**
 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
-- Designing and building a unified 'platform' architecture and series of new business apps to support Allegion's various product lines
-- Building and migrating event-driven microservices using C# .NET, Azure Event Hubs, and Kubernetes (AKS), improving portability and deployment consistency across teams.
+- Direct ownership of the creation and delivery of almost all pipelines and infrastructure efforts; working daily in C# apps and IaC templates. 
+- Designing and building a unified 'platform' architecture and series of new business apps to support Allegion's various product lines, DRYing up functionality for the entire organization
+- Creating a distinct service oriented architecture by porting functionality out of monoliths
+- Migrating workloads away from app services platforms in favor of Kubernetes to save 10x on hosting cost
+- Redesigning and rewriting collections of services to consolidate functionality and improve simplicity
+- Building event-driven microservices using C# .NET, Azure Event Hubs, and Azure Kubernetes Service (AKS), improving portability and deployment consistency across teams.
 - Establishing patterns through application templates and POC work; collaborating with international teams on feature development and code review.
-- Mentoring and pairing with engineers through complex work items
-- Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
+- Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency. 
 
 ### **Senior Software Engineer: Cloud**
 *Allegion - Golden, CO | February 2023 - May 2025*
-- Architecting and deploying distributed microservices to consolidate legacy systems using Kubernetes, Azure Event Hubs, and Cosmos DB. 
-- Implemented, deployed, and maintained Azure Kubernetes Fleet instances using Terraform
-- Designing RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support mobile SDK integrations.
+- Designed RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support iOS and Android SDKs for various Allegion product lines. 
+- Services I wrote successfully scaled from greenfield projects to handling 13 million requests per day.
+- Designed and produced new hosting paradigms Azure Kubernetes Fleet instances using Terraform
 - Developed release methodologies and branching strategy for a team of eight
 - Conveying architecture plans to stakeholders through UML and sequence diagrams
 - Curating CI/CD tasks with YAML pipelines in Azure Dev Ops
@@ -69,10 +72,7 @@ Software Engineer with over ten years of experience designing and delivering rel
 ### **Lead Web Programmer**
 *Stellar Blue Technologies - Appleton, WI | August 2015 - September 2016*
 
-## **Education**
-
-### **B.S. in Computer Science**  
-*University of Colorado - Denver, CO | Partial coursework completed*  
+## **Education** 
 
 ### **A.A.S. in Software Development**  
 *Fox Valley Technical College - Appleton, WI | Graduated May 2015*

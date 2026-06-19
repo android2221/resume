@@ -2,14 +2,25 @@
 layout: base.njk
 ---
 
+{% set posts = collections.posts %}
+{% set latestPost = posts[0] %}
+
 <header class="blog-heading">
   <p class="blog-kicker">Notes / archive</p>
   <h1>{{ title }}</h1>
   <p class="blog-intro">Short notes on software, strange systems, and whatever I’m building next.</p>
 </header>
 
+{% if latestPost %}
+  <a href="{{ latestPost.url }}" class="latest-post">
+    <span class="latest-post__label">Latest post</span>
+    <span class="latest-post__title">{{ latestPost.data.title }}</span>
+    <span class="latest-post__date">{{ latestPost.date | date("YYYY-MM-DD") }}</span>
+  </a>
+{% endif %}
+
 <div class="post-list" aria-label="Blog posts">
-  {% for post in collections.posts | reverse %}
+  {% for post in posts %}
     <a href="{{ post.url }}" class="post-row">
       <span class="post-row__date">{{ post.date | date("YYYY-MM-DD") }}</span>
       <span class="post-row__title">{{ post.data.title }}</span>

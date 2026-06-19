@@ -22,9 +22,7 @@
 
     html {
       font-size: 15px;
-      background:
-        linear-gradient(to right, rgba(5, 5, 5, 0.045) 1px, transparent 1px) 0 0 / 64px 64px,
-        var(--paper);
+      background: var(--paper);
     }
 
     body {
@@ -234,6 +232,36 @@
       font-size: 1.05rem;
       line-height: 1.65;
     }
+    .latest-post {
+      display: grid;
+      grid-template-columns: 132px 1fr auto;
+      gap: calc(var(--grid) * 2);
+      align-items: center;
+      padding: calc(var(--grid) * 2);
+      margin-bottom: calc(var(--grid) * 3);
+      border: var(--rule);
+      background: var(--paper);
+      transition: background-color 120ms linear, color 120ms linear;
+    }
+    .latest-post:hover {
+      background: var(--ink);
+      color: var(--paper);
+    }
+    .latest-post__label,
+    .latest-post__date {
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    .latest-post__title {
+      font-size: clamp(1.25rem, 4vw, 2rem);
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: -0.05em;
+    }
     .post-list {
       margin-top: calc(var(--grid) * 1);
     }
@@ -344,6 +372,10 @@
         flex-wrap: wrap;
         gap: calc(var(--grid) * 2) calc(var(--grid) * 3);
       }
+      .latest-post {
+        grid-template-columns: 1fr;
+        gap: calc(var(--grid) * 1);
+      }
       .post-row {
         grid-template-columns: 1fr;
       }
@@ -383,7 +415,7 @@
       
 <article class="post">
   <header class="post-header">
-    <p class="post-date">2026-05-25</p>
+    <p class="post-date">2026-05-26</p>
     <h1 class="post-title">Welcome to the blog</h1>
   </header>
 

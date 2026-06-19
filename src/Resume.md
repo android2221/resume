@@ -24,16 +24,16 @@ I am a Senior Software engineer with over ten years of experience designing and 
 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
-- Direct ownership of the creation and delivery of almost all pipelines and infrastructure efforts; working daily in C# apps and Infrastructure as Code (IaC) templates.
-- Architecting a unified platform of event-driven microservices to replace legacy monoliths, using C# .NET, Azure Event Hubs, and Azure Kubernetes Service (AKS) — consolidating duplicated logic across three teams/apps into shared services and improving deployment consistency org-wide
+- Direct ownership of the creation and delivery of almost all pipelines and infrastructure efforts; working daily in C# apps and Infrastructure as Code (IaC) templates
+- Architecting a unified platform of event-driven microservices to replace legacy monoliths, using C# .NET, Azure Event Hubs, and Azure Kubernetes Service (AKS) — consolidating duplicated logic across 3 teams/apps into shared services and improving deployment consistency org-wide
 - Migrating workloads from App Service to Kubernetes, cutting hosting costs 10x
 - Establishing reusable patterns through application templates and proof-of-concept work; collaborating with international teams on feature development and code review
 - Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
 
 ### **Senior Software Engineer: Cloud**
 *Allegion - Golden, CO | February 2023 - May 2025*
-- Designed RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support iOS and Android SDKs for various Allegion product lines. 
-- Services I wrote successfully scaled from greenfield projects to handling 13 million requests per day.
+- Designed RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support iOS and Android SDKs for various Allegion product lines
+- Scaled services from greenfield projects to handling 13 million requests per day
 - Designed and produced new hosting paradigms using Azure Kubernetes instances with Terraform, scaling infrastructure management across 3 clusters
 - Developed release methodologies and branching strategy for a team of eight
 - Achieved a 2-year stretch with zero hotfixes, production downtime, or rollbacks as a direct result of the new release process
@@ -47,7 +47,7 @@ I am a Senior Software engineer with over ten years of experience designing and 
 - Collaborated with Google engineers to develop enterprise employee access card solutions
 - Built service-oriented architectures using Azure Functions and Cosmos DB
 - Developed encryption libraries to securely transmit payloads to mobile devices and card readers
-- Implemented observability and real-time alerting using Azure Monitor and PagerDuty to ensure system reliability.
+- Implemented observability and real-time alerting using Azure Monitor and PagerDuty to ensure system reliability
 
 ### **Senior Software Engineer**
 *Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*

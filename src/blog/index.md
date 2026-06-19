@@ -8,7 +8,5 @@ permalink: "/index.html"
 ## Things
 - [Résumé](/resume)
 - [Blog](/blog)
-- [Hacker Scroller](https://hacker-scroller.com)
-- [Weird Software Person](https://weirdsoftwareperson.com)
-
-// TODO: needs target=blank
+- <a href="https://hacker-scroller.com" target="_blank" rel="noopener noreferrer">Hacker Scroller</a>
+- <a href="https://weirdsoftwareperson.com" target="_blank" rel="noopener noreferrer">Weird Software Person</a>

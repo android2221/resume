@@ -1,44 +1,45 @@
 # **Andy Hablewitz : Senior Software Engineer**
-### Backend & Distributed Systems
+### Specializing in Backend & Distributed Systems
 
 **Email:** [mail@andyhablewitz.com](mailto:mail@andyhablewitz.com)  
 **GitHub:** [github.com/android2221](https://github.com/android2221)  
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-Software Engineer with over ten years of experience designing and delivering reliable, scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC.
+I am a Senior Software Engineer with over ten years of experience designing and delivering reliable and scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC. 
 
 ## **Technical Skills**
 
-- **Languages:** C#, .NET Core, Python, Go
+- **Languages:** C#, .NET Core, familiarity with Go, Python
 - **Distributed Systems:** Microservices, Event-Driven Architecture, Service-Oriented Architecture
 - **Messaging & Streaming:** Azure Event Hubs, Azure Service Bus, Redis
-- **Container Orchestration:** Kubernetes, AKS, Docker, Helm
-- **Databases:** SQL Server, Cosmos DB (Document DB), Azure SQL
+- **Container Orchestration:** Kubernetes, Docker, Helm
+- **Databases:** SQL Server, Postgres, CosmosDb, MongoDB 
 - **Cloud Platforms:** Azure (Primary), AWS (Foundational)
-- **Infrastructure & DevOps:** Terraform, CI/CD Pipelines, Azure DevOps
+- **Infrastructure & DevOps:** Terraform, CI/CD Pipelines, Azure DevOps, GitHub Actions
 - **Security:** Encryption, TLS, PKI
-- **AI & Productivity:** Claude, Gemini, GitHub Copilot, AI Agent Orchestration
+- **AI:** Agentic development with cloud and local models
 
 ## **Experience**
 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
-- Designing and building a unified 'platform' architecture and series of new business apps to support Allegion's various product lines
-- Building and migrating event-driven microservices using C# .NET, Azure Event Hubs, and Kubernetes (AKS), improving portability and deployment consistency across teams.
-- Establishing patterns through application templates and POC work; collaborating with international teams on feature development and code review.
-- Mentoring and pairing with engineers through complex work items
+- Direct ownership of the creation and delivery of almost all pipelines and infrastructure efforts; working daily in C# apps and Infrastructure as Code (IaC) templates
+- Architecting a unified platform of event-driven microservices to replace legacy monoliths, using C# .NET, Azure Event Hubs, and Azure Kubernetes Service (AKS) — consolidating duplicated logic across 3 teams/apps into shared services and improving deployment consistency org-wide
+- Migrating workloads from App Service to Kubernetes, cutting hosting costs 10x
+- Establishing reusable patterns through application templates and proof-of-concept work; collaborating with international teams on feature development and code review
 - Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
 
 ### **Senior Software Engineer: Cloud**
 *Allegion - Golden, CO | February 2023 - May 2025*
-- Architecting and deploying distributed microservices to consolidate legacy systems using Kubernetes, Azure Event Hubs, and Cosmos DB. 
-- Implemented, deployed, and maintained Azure Kubernetes Fleet instances using Terraform
-- Designing RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support mobile SDK integrations.
+- Designed RESTful APIs and event-driven backend services using .NET, Azure Event Hubs, and Function Apps to support iOS and Android SDKs for various Allegion product lines
+- Scaled services from greenfield projects to handling 13 million requests per day
+- Designed and produced new hosting paradigms using Azure Kubernetes instances with Terraform, scaling infrastructure management across 3 clusters
 - Developed release methodologies and branching strategy for a team of eight
-- Conveying architecture plans to stakeholders through UML and sequence diagrams
-- Curating CI/CD tasks with YAML pipelines in Azure Dev Ops
-- Leading small feature teams through the development of story tasks
+- Achieved a 2-year stretch with zero hotfixes, production downtime, or rollbacks as a direct result of the new release process
+- Conveyed architecture plans to stakeholders through UML and sequence diagrams
+- Curated CI/CD tasks with YAML pipelines in Azure Dev Ops
+- Led small feature teams through the development of story tasks
 
 ### **Software Engineer III: Cloud**  
 *Allegion - Golden, CO | July 2021 - February 2023*
@@ -46,7 +47,7 @@ Software Engineer with over ten years of experience designing and delivering rel
 - Collaborated with Google engineers to develop enterprise employee access card solutions
 - Built service-oriented architectures using Azure Functions and Cosmos DB
 - Developed encryption libraries to securely transmit payloads to mobile devices and card readers
-- Implemented observability and real-time alerting using Azure Monitor and PagerDuty to ensure system reliability.
+- Implemented observability and real-time alerting using Azure Monitor and PagerDuty to ensure system reliability
 
 ### **Senior Software Engineer**
 *Aegis Premier Technologies - Westminster, CO | September 2019 - July 2021*
@@ -69,10 +70,7 @@ Software Engineer with over ten years of experience designing and delivering rel
 ### **Lead Web Programmer**
 *Stellar Blue Technologies - Appleton, WI | August 2015 - September 2016*
 
-## **Education**
-
-### **B.S. in Computer Science**  
-*University of Colorado - Denver, CO | Partial coursework completed*  
+## **Education** 
 
 ### **A.A.S. in Software Development**  
 *Fox Valley Technical College - Appleton, WI | Graduated May 2015*

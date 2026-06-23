@@ -6,7 +6,7 @@
 **LinkedIn:** [linkedin.com/in/andyhablewitz/](https://www.linkedin.com/in/andyhablewitz/)
 
 ## **Personal Statement**
-I am a Senior Software engineer with over ten years of experience designing and delivering reliable and scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC. 
+I am a Senior Software Engineer with over ten years of experience designing and delivering reliable and scalable software solutions. I excel at solving complex technical challenges with efficiency and clarity, and I drive the development of high-impact features while leading small teams through every stage of the SDLC. 
 
 ## **Technical Skills**
 

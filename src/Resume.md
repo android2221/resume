@@ -25,8 +25,9 @@ I am a Senior Software Engineer with over ten years of experience designing and 
 ### **Senior Software Engineer II: Cloud**  
 *Allegion - Golden, CO | May 2025 - Current*
 - Direct ownership of the creation and delivery of almost all pipelines and infrastructure efforts; working daily in C# apps and Infrastructure as Code (IaC) templates
+- Saved over $120,000 in annual cloud costs by right-sizing Cosmos databases and APIM instances
 - Architecting a unified platform of event-driven microservices to replace legacy monoliths, using C# .NET, Azure Event Hubs, and Azure Kubernetes Service (AKS) — consolidating duplicated logic across 3 teams/apps into shared services and improving deployment consistency org-wide
-- Migrating workloads from App Service to Kubernetes, cutting hosting costs 10x
+- Migrating workloads from App Service to Kubernetes, cutting hosting costs 10x for our platform
 - Establishing reusable patterns through application templates and proof-of-concept work; collaborating with international teams on feature development and code review
 - Leveraging LLMs (Claude, Gemini, Copilot) and AI agent orchestration to accelerate development workflows, automate repetitive tasks, and enhance debugging efficiency
 

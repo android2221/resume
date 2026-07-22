@@ -11,6 +11,9 @@ setup_git() {
 # Publish only the built site (public/) to gh-pages, not the repo source.
 # .nojekyll disables GitHub Pages' Jekyll build so files are served as-is.
 commit_website_files() {
+  # docker compose runs the build as root, so public/ is root-owned on the
+  # runner's host filesystem; reclaim it before writing into it here.
+  sudo chown -R "$(id -u):$(id -g)" public/
   cp CNAME public/
   touch public/.nojekyll
   cd public

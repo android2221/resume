@@ -24,6 +24,8 @@ services:
       - "8080:8080"
     volumes:
       - ./:/code/
+    environment:
+      - ELEVENTY_ENV=production
     depends_on:
       resume-watch:
         condition: service_started

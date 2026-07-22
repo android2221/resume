@@ -8,6 +8,7 @@ services:
       - ./public:/save-dir/
     environment:
       - RENDER_FILE_LOCATION=/code/src/resume/Resume.md
+      - ELEVENTY_ENV=production
     command: >
       bash -c '
         npm install && npm start && \

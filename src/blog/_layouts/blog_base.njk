@@ -18,11 +18,13 @@ layout: base.njk
   </a>
 {% endif %}
 
-<div class="post-list" aria-label="Blog posts">
+<div class="post-list{% if not posts.length %} post-list--empty{% endif %}" aria-label="Blog posts">
   {% for post in posts %}
     <a href="{{ post.url }}" class="post-row">
       <span class="post-row__title">{{ post.data.title }}</span>
       <span class="post-row__date">{{ post.date | date("YYYY-MM-DD") }}</span>
     </a>
+  {% else %}
+    <p class="post-list__empty">Nothing to see here, yet.</p>
   {% endfor %}
 </div>

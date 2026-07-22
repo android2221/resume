@@ -11,6 +11,12 @@ layout: base.njk
 <nav class="home-links">
   <a href="/resume/">Résumé</a>
   <a href="/blog/">Blog</a>
-  <a href="https://hacker-scroller.com" target="_blank" rel="noopener noreferrer">Hacker Scroller</a>
-  <a href="https://weirdsoftwareperson.com" target="_blank" rel="noopener noreferrer">Weird Software Person</a>
 </nav>
+
+<div class="home-projects">
+  <p class="home-projects__kicker">Projects</p>
+  <nav class="home-links">
+    <a href="https://hacker-scroller.com" target="_blank" rel="noopener noreferrer">Hacker Scroller</a>
+    <a href="https://weirdsoftwareperson.com" target="_blank" rel="noopener noreferrer">Weird Software Person</a>
+  </nav>
+</div>

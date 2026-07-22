@@ -3,4 +3,5 @@ title: "Blog"
 layout: blog_base.njk
 permalink: "/blog/"
 ---
-Hey
+
+Short notes on software, strange systems, and whatever I’m building next.

@@ -6,9 +6,8 @@ layout: base.njk
 {% set latestPost = posts[0] %}
 
 <header class="blog-heading">
-  <p class="blog-kicker">Notes / archive</p>
   <h1>{{ title }}</h1>
-  <p class="blog-intro">Short notes on software, strange systems, and whatever I’m building next.</p>
+  <div class="blog-intro">{{ content | safe }}</div>
 </header>
 
 {% if latestPost %}
@@ -22,8 +21,8 @@ layout: base.njk
 <div class="post-list" aria-label="Blog posts">
   {% for post in posts %}
     <a href="{{ post.url }}" class="post-row">
-      <span class="post-row__date">{{ post.date | date("YYYY-MM-DD") }}</span>
       <span class="post-row__title">{{ post.data.title }}</span>
+      <span class="post-row__date">{{ post.date | date("YYYY-MM-DD") }}</span>
     </a>
   {% endfor %}
 </div>

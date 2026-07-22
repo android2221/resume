@@ -160,14 +160,27 @@
     }
 
     /* Home */
+    body.is-home {
+      display: flex;
+      flex-direction: column;
+    }
+    body.is-home .page {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    body.is-home main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
     .home-name {
-      min-height: 52vh;
-      display: grid;
-      align-content: end;
       padding-bottom: calc(var(--grid) * 4);
       border-bottom: var(--rule);
     }
     .home-name h1 {
+      letter-spacing: -0.05em;
       margin-bottom: calc(var(--grid) * 1.5);
     }
     .home-name__sub {
@@ -181,41 +194,26 @@
     }
     .home-links {
       margin-top: calc(var(--grid) * 3);
-      border-top: var(--rule);
     }
     .home-links a {
-      display: grid;
-      grid-template-columns: 18px 1fr;
-      gap: calc(var(--grid) * 2);
-      padding: calc(var(--grid) * 2) 0;
+      display: block;
+      margin: 0 calc(var(--grid) * -2);
+      padding: calc(var(--grid) * 2);
       font-size: clamp(1.15rem, 4vw, 2rem);
       font-weight: 700;
       line-height: 1.1;
       letter-spacing: -0.04em;
-      border-bottom: var(--fine);
-    }
-    .home-links a::before {
-      content: "↗";
-      color: var(--accent);
-      font-weight: 400;
-      letter-spacing: 0;
     }
     .home-links a:hover {
       background: var(--ink);
       color: var(--paper);
-      padding-left: calc(var(--grid) * 2);
     }
-    .home-links a:hover::before {
-      color: var(--accent);
+    .home-projects {
+      margin-top: calc(var(--grid) * 3);
+      padding-top: calc(var(--grid) * 2);
+      border-top: var(--rule);
     }
-
-    /* Blog index */
-    .blog-heading {
-      padding-bottom: calc(var(--grid) * 6);
-      margin-bottom: calc(var(--grid) * 6);
-      border-bottom: var(--rule);
-    }
-    .blog-kicker {
+    .home-projects__kicker {
       font-family: var(--mono);
       font-size: 12px;
       font-weight: 700;
@@ -224,28 +222,43 @@
       color: var(--accent);
       margin-bottom: calc(var(--grid) * 2);
     }
+    .home-projects .home-links {
+      margin-top: 0;
+    }
+
+    /* Blog index */
+    .blog-heading {
+      padding-bottom: calc(var(--grid) * 6);
+      margin-bottom: calc(var(--grid) * 6);
+      border-bottom: var(--rule);
+    }
     .blog-heading h1 {
       margin-bottom: calc(var(--grid) * 2);
     }
-    .blog-intro {
+    .blog-intro,
+    .blog-intro p {
       max-width: 560px;
       font-size: 1.05rem;
       line-height: 1.65;
     }
+    .blog-intro p {
+      margin-bottom: 0;
+    }
     .latest-post {
       display: grid;
-      grid-template-columns: 132px 1fr auto;
-      gap: calc(var(--grid) * 2);
-      align-items: center;
-      padding: calc(var(--grid) * 2);
-      margin-bottom: calc(var(--grid) * 3);
-      border: var(--rule);
-      background: var(--paper);
+      grid-template-columns: 1fr auto;
+      column-gap: calc(var(--grid) * 2);
+      margin: 0 calc(var(--grid) * -2) calc(var(--grid) * 7);
+      padding: calc(var(--grid) * 3) calc(var(--grid) * 2);
+      border-bottom: var(--rule);
       transition: background-color 120ms linear, color 120ms linear;
     }
     .latest-post:hover {
       background: var(--ink);
       color: var(--paper);
+    }
+    .latest-post__label {
+      grid-column: 1 / -1;
     }
     .latest-post__label,
     .latest-post__date {
@@ -256,7 +269,12 @@
       text-transform: uppercase;
       color: var(--accent);
     }
+    .latest-post__date {
+      align-self: end;
+      white-space: nowrap;
+    }
     .latest-post__title {
+      margin-top: calc(var(--grid) * 1);
       font-size: clamp(1.25rem, 4vw, 2rem);
       font-weight: 700;
       line-height: 1.1;
@@ -266,34 +284,31 @@
       margin-top: calc(var(--grid) * 1);
     }
     .post-row {
-      display: grid;
-      grid-template-columns: 132px 1fr;
-      align-items: stretch;
-      min-height: calc(var(--grid) * 9);
-      margin-bottom: calc(var(--grid) * 1);
-      border: var(--fine);
-      background: var(--paper);
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: calc(var(--grid) * 2);
+      margin: 0 calc(var(--grid) * -2);
+      padding: calc(var(--grid) * 2);
+      border-bottom: var(--fine);
       transition: background-color 120ms linear, color 120ms linear;
     }
     .post-row:hover {
       background: var(--ink);
       color: var(--paper);
     }
+    .post-row:hover .post-row__date {
+      color: var(--paper);
+    }
     .post-row__date {
-      display: flex;
-      align-items: center;
-      padding: calc(var(--grid) * 1.5);
-      border-right: var(--fine);
       font-family: var(--mono);
       font-size: 11px;
       font-weight: 700;
       letter-spacing: 0.04em;
       color: var(--muted);
+      white-space: nowrap;
     }
     .post-row__title {
-      display: flex;
-      align-items: center;
-      padding: calc(var(--grid) * 1.5);
       font-size: clamp(1.15rem, 3vw, 1.75rem);
       font-weight: 700;
       line-height: 1.1;
@@ -356,9 +371,8 @@
       text-transform: uppercase;
       color: var(--muted);
     }
-    .ftr::after {
-      content: "INDEX / POSTS / ARCHIVE";
-      color: var(--ink);
+    body.is-home .ftr {
+      margin-top: 0;
     }
 
     /* Responsive */
@@ -383,12 +397,6 @@
         border-right: 0;
         border-bottom: var(--fine);
       }
-      .home-name { min-height: 48vh; }
-      .home-links a {
-        grid-template-columns: 1fr;
-        padding-left: calc(var(--grid) * 2);
-      }
-      .home-links a:hover { padding-left: calc(var(--grid) * 2); }
     }
 
     @media (prefers-reduced-motion: reduce) {
@@ -400,8 +408,9 @@
     }
   </style>
 </head>
-<body>
+<body{% if page.url == "/" %} class="is-home"{% endif %}>
   <div class="page">
+    {% if page.url != "/" %}
     <header class="hdr">
       <a href="/">Andy Hablewitz</a>
       <nav class="nav">
@@ -410,6 +419,7 @@
         <a href="/resume/" {% if page.url.startsWith("/resume") %}aria-current="page"{% endif %}>Resume</a>
       </nav>
     </header>
+    {% endif %}
 
     <main>
       {{ content | safe }}

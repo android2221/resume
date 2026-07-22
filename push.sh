@@ -23,7 +23,10 @@ commit_website_files() {
 }
 
 upload_files() {
-  git push --quiet --force "https://${GH_TOKEN}@github.com/android2221/resume.git" gh-pages
+  # x-access-token as the username and the token as the password is
+  # GitHub's documented format; a bare token with no password causes
+  # git to still solicit a password interactively, which fails in CI.
+  git push --quiet --force "https://x-access-token:${GH_TOKEN}@github.com/android2221/resume.git" gh-pages
 }
 
 setup_git

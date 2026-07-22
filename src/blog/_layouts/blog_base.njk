@@ -1,0 +1,30 @@
+---
+layout: base.njk
+---
+
+{% set posts = collections.posts %}
+{% set latestPost = posts[0] %}
+
+<header class="blog-heading">
+  <h1>{{ title }}</h1>
+  <div class="blog-intro">{{ content | safe }}</div>
+</header>
+
+{% if latestPost %}
+  <a href="{{ latestPost.url }}" class="latest-post">
+    <span class="latest-post__label">Latest post</span>
+    <span class="latest-post__title">{{ latestPost.data.title }}</span>
+    <span class="latest-post__date">{{ latestPost.date | date("YYYY-MM-DD") }}</span>
+  </a>
+{% endif %}
+
+<div class="post-list{% if not posts.length %} post-list--empty{% endif %}" aria-label="Blog posts">
+  {% for post in posts %}
+    <a href="{{ post.url }}" class="post-row">
+      <span class="post-row__title">{{ post.data.title }}</span>
+      <span class="post-row__date">{{ post.date | date("YYYY-MM-DD") }}</span>
+    </a>
+  {% else %}
+    <p class="post-list__empty">Nothing to see here, yet.</p>
+  {% endfor %}
+</div>

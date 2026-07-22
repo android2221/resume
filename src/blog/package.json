@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "version": "0.1.0",
+  "description": "Eleventy blog for the resume site",
+  "private": true,
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}

@@ -1,12 +1,19 @@
 version: '3.6'
 services:
   build-resume:
-    image: node:10.15.3
-    working_dir: /code/
+    image: node:18
+    working_dir: /code/src/resume/
     volumes:
       - ./:/code/
-    environment: 
-      - RENDER_FILE_LOCATION=/code/src/Resume.md
+      - ./public:/save-dir/
+    environment:
+      - RENDER_FILE_LOCATION=/code/src/resume/Resume.md
+      - ELEVENTY_ENV=production
     command: >
-      bash -c 'npm install && npm start && rm -rf ./node_modules && echo "Cleared node_modules"'
-    
+      bash -c '
+        npm install && npm start && \
+        mkdir -p /save-dir/css && cp -r /code/src/resume/css/. /save-dir/css && \
+        cd /code/src/blog && npm install && npx eleventy && \
+        rm -rf ./node_modules /code/src/resume/node_modules && \
+        echo "Build complete!"
+      '

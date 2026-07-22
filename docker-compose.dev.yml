@@ -11,7 +11,9 @@ services:
       - RENDER_FILE_LOCATION=/code/src/resume/Resume.md
     command: >
       bash -c '
-        npm install && npm start && npm run watch
+        npm install && npm start && \
+        mkdir -p /save-dir/css && cp -r /code/src/resume/css/. /save-dir/css && \
+        npm run watch
       '
 
   # Eleventy dev server with hot reload (serves the whole site at localhost:8080)

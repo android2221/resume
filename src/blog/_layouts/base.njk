@@ -250,7 +250,6 @@
       column-gap: calc(var(--grid) * 2);
       margin: 0 calc(var(--grid) * -2) calc(var(--grid) * 7);
       padding: calc(var(--grid) * 3) calc(var(--grid) * 2);
-      border-bottom: var(--rule);
       transition: background-color 120ms linear, color 120ms linear;
     }
     .latest-post:hover {
@@ -281,7 +280,8 @@
       letter-spacing: -0.05em;
     }
     .post-list {
-      margin-top: calc(var(--grid) * 1);
+      padding-top: calc(var(--grid) * 2);
+      border-top: var(--rule);
     }
     .post-row {
       display: flex;
@@ -290,7 +290,6 @@
       gap: calc(var(--grid) * 2);
       margin: 0 calc(var(--grid) * -2);
       padding: calc(var(--grid) * 2);
-      border-bottom: var(--fine);
       transition: background-color 120ms linear, color 120ms linear;
     }
     .post-row:hover {
@@ -362,7 +361,7 @@
       justify-content: space-between;
       gap: calc(var(--grid) * 2);
       padding-top: calc(var(--grid) * 2);
-      margin-top: calc(var(--grid) * 12);
+      margin-top: calc(var(--grid) * 6);
       border-top: var(--rule);
       font-family: var(--mono);
       font-size: 11px;
@@ -424,10 +423,6 @@
     <main>
       {{ content | safe }}
     </main>
-
-    <footer class="ftr">
-      &copy; {{ "now" | date("YYYY") }} Andy Hablewitz
-    </footer>
   </div>
 </body>
 </html>

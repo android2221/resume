@@ -22,5 +22,5 @@ jobs:
         run: docker compose up --exit-code-from build-resume
       - name: Push to GH Pages
         run: ./push.sh
-        env: 
-          GH_TOKEN: ${{ secrets.github_token }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
